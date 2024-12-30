@@ -1,0 +1,2374 @@
+<question> How many types of entrepreneurship are there and what types are there?
+<variant> Corporate entrepreneurship (or intrapreneurship), Family Enterprising, Social Entrepreneurship, Serial Entrepreneurs.
+<variant> Traditional entrepreneurship, Partnership entrepreneurship, Financial entrepreneurship, Innovative entrepreneurship
+<variant> Corporate entrepreneurship, Individual entrepreneurship, Community entrepreneurship, Market-driven entrepreneurship
+<variant> Social Entrepreneurship, Investor Entrepreneurship, Regional Entrepreneurship, Micro-entrepreneurship
+<variantright> Corporate entrepreneurship (or intrapreneurship), Family Enterprising, Social Entrepreneurship, Serial Entrepreneurs.
+<question> The Two Main Perspectives in Entrepreneurship?
+<variant> Prediction, Creation.
+<variant> Strategy, Execution
+<variant> Planning, Action
+<variant> Risk-taking, Stability
+<variantright> Prediction, Creation.
+<question> What is prediction in entrepreneurship?
+<variant> This approach relies on using data, trends, and forecasting to make decisions. Entrepreneurs who follow this model seek to predict market needs and prepare solutions that align with known outcomes.
+<variant> It is a spontaneous process of trial and error without considering market trends
+<variant> It emphasizes intuition and gut feelings over structured data
+<variant> It involves launching products without prior research or feedback
+<variantright> This approach relies on using data, trends, and forecasting to make decisions. Entrepreneurs who follow this model seek to predict market needs and prepare solutions that align with known outcomes.
+<question> What is Creation in entrepreneurship?
+<variant> In contrast, creation is about diving into the unknown and shaping new opportunities through experimentation. Entrepreneurs using this approach test ideas in the market with little certainty, learning and evolving based on feedback.
+<variant> Creation relies exclusively on past data and trends for decision-making
+<variant> Creation is about imitating existing successful businesses
+<variant> Creation focuses on avoiding risks rather than experimenting with ideas
+<variantright> In contrast, creation is about diving into the unknown and shaping new opportunities through experimentation. Entrepreneurs using this approach test ideas in the market with little certainty, learning and evolving based on feedback.
+<question> The Eight Components of Entrepreneurship Practice?
+<variant> Opportunity recognition, Experimentation, Managing resources, Building networks, Scaling ventures, Managing risks, Reflective learning, Grit and perseverance.
+<variant> Profit maximization, Employee hiring, Market domination, Cost cutting, Reputation building, Financial modeling, Traditional methods, Static strategies
+<variant> Customer acquisition, Competitor analysis, Public relations, Budget optimization, Outsourcing, Leadership building, Operational efficiency, Marketing planning
+<variant> Team building, Sales optimization, Fixed decision-making, Conflict resolution, Basic accounting, Knowledge retention, Legal compliance, Internal training
+<variantright> Opportunity recognition, Experimentation, Managing resources, Building networks, Scaling ventures, Managing risks, Reflective learning, Grit and perseverance.
+<question> What are the three mindsets in entrepreneurship?
+<variant> Fixed Mindset, Growth Mindset, Entrepreneurial mindset.
+<variant> Positive mindset, Negative mindset, Business mindset
+<variant> Proactive mindset, Risk-averse mindset, Creative mindset
+<variant> Analytical mindset, Problem-solving mindset, Leadership mindset
+<variantright> Fixed Mindset, Growth Mindset, Entrepreneurial mindset.
+<question> Give an example of Fixed Mindset?
+<variant> Why do you want to start up a business? You need accounting skills. You were always terrible at math at school. Are you sure you can do it?
+<variant> You can always improve your accounting skills with enough effort
+<variant> Starting a business is possible if you focus on learning and growing
+<variant> Everyone has strengths; focus on what you're good at to succeed
+<variantright> Why do you want to start up a business? You need accounting skills. You were always terrible at math at school. Are you sure you can do it?
+<question> Give an example of Growth Mindset?
+<variant> I might not be any good at accounting at first, but I think I can learn to be good at it if I commit to it and put in the time and effort.
+<variant> I'm bad at accounting and can't improve
+<variant> Starting a business doesn't require me to learn new skills
+<variant> If I'm not good at accounting now, I'll never be good at it
+<variantright> I might not be any good at accounting at first, but I think I can learn to be good at it if I commit to it and put in the time and effort.
+<question> What is needed for an Entrepreneurial mindset?
+<variant> The ability to quickly sense, take action, and get organized under uncertain conditions.
+<variant> Avoiding risks and relying on routine methods
+<variant> Focusing exclusively on financial results without considering flexibility
+<variant> Maintaining a strict, unchanging plan in all circumstances
+<variantright> The ability to quickly sense, take action, and get organized under uncertain conditions.
+<question> What business models do you know?
+<variant> The offering, the customers, the infrastructure, the financial viability.
+<variant> The marketing strategy, the competitive analysis, the product design, the pricing structure
+<variant> The operational plan, the distribution model, the sales process, the technological advancements
+<variant> The leadership style, the organizational hierarchy, the employee benefits, the brand identity
+<variantright> The offering, the customers, the infrastructure, the financial viability.
+<question> What are stocks?
+<variant> They are an equity instrument, meaning you buy a part of a company.
+<variant> They are a financial product designed to save and accumulate funds in a bank
+<variant> They are bonds that guarantee a fixed income over a specified period
+<variant> They are a document confirming the right to receive dividends from state-owned property
+<variantright> They are an equity instrument, meaning you buy a part of a company.
+<question> Who provides access to the market?
+<variant> Broker.
+<variant> Bank.
+<variant> Investor.
+<variant> Company.
+<variantright> Broker.
+<question> What types of securities exist in investments?
+<variant> Short-term, medium-term, long-term securities.
+<variant> Short-term, high-yield, insurance securities.
+<variant> Long-term, savings, one-time securities.
+<variant> Medium-term, reserve, guaranteed securities.
+<variantright> Short-term, medium-term, long-term securities.
+<question> What is the main goal of the market?
+<variant> To provide people with long-term investment opportunities.
+<variant> To ensure immediate access to cash.
+<variant> To regulate the prices of goods and services.
+<variant> To create conditions for short-term speculation.
+<variantright> To provide people with long-term investment opportunities.
+<question> What is the main law of the market?
+<variant> The law of supply and demand.
+<variant> The law of labor value.
+<variant> The law of equitable resource distribution.
+<variant> The law of maximum profit.
+<variantright> The law of supply and demand.
+<question> What makes government securities unique?
+<variant> They have a minimal reward rate, which means minimal risk.
+<variant> They offer high returns with maximum risk.
+<variant> They are available only to large investors and banks.
+<variant> They are always backed by private company assets.
+<variantright> They have a minimal reward rate, which means minimal risk.
+<question> What are dividends?
+<variant> They are a payment of a portion of the company's net profit for the financial year.
+<variant> They are mandatory payments made by the company for using borrowed funds.
+<variant> They are a tax paid by the company for participating in the stock market.
+<variant> They are funds allocated by the company to cover shareholder losses.
+<variantright> They are a payment of a portion of the company's net profit for the financial year.
+<question> Name two types of markets.
+<variant> Primary market and secondary market.
+<variant> Financial market and commodity market.
+<variant> Local market and international market.
+<variant> Demand market and supply market.
+<variantright> Primary market and secondary market.
+<question> What is a coupon?
+<variant> It is compensation for the use of your money.
+<variant> It is a document confirming the right to own stocks.
+<variant> It is a tax on investment income.
+<variant> It is a fixed fee for participating in trades.
+<variantright> It is compensation for the use of your money.
+<question> Under what condition a company does not pay dividends?
+<variant> When there is a negative profit.
+<variant> When the stock price is high.
+<variant> When there are debts to banks.
+<variant> When production volume increases.
+<variantright> When there is a negative profit.
+<question> Which bonds are not subject to income tax?
+<variant> Municipal bonds.
+<variant> Government bonds.
+<variant> Corporate bonds.
+<variantright> Tax-Exempt Bonds.
+<question> What is a "zero-coupon bond"?
+<variant> A bond that does not pay interest but is sold at a discount.
+<variant> A bond that pays interest annually.
+<variant> A bond with no maturity date.
+<variant> A bond that pays interest monthly.
+<variantright> A bond that does not pay interest but is sold at a discount.
+<question> Which of the following is an advantage of government bonds?
+<variant> Low risk of default.
+<variant> High risk of default.
+<variant> High yield.
+<variant> Low liquidity.
+<variantright> Low risk of default.
+<question> Why are government bonds considered a "safe haven" for investors during crises?
+<variant> They are issued by governments, which are less likely to default.
+<variant> They offer higher yields than corporate bonds.
+<variant> Their yield increases with inflation.
+<variant> They are only available to large investors.
+<variantright> They are issued by governments, which are less likely to default.
+<question> Which of the following is a disadvantage of corporate bonds?
+<variant> Risk of company default.
+<variant> High yield.
+<variant> High liquidity.
+<variant> Reliability during crises.
+<variantright> Risk of company default.
+<question> Which statement is true about government bonds?
+<variantright> They can lose value due to inflation.
+<variant> They always offer the highest yield in the market.
+<variant> Their price is not affected by interest rates.
+<variant> They are only available to institutional investors.
+<question> Which of the following factors does NOT apply to corporate bonds?
+<variantright> Low risk of default.
+<variant> High yield.
+<variant> Low liquidity.
+<variant> Diversity of issuers.
+<question> Which of the following is true for an annuity?
+<variantright> Payments are equal and include both interest and a portion of the principal.
+<variant> Payments are equal but consist only of interest.
+<variant> Payments decrease over time as the principal is repaid.
+<variant> All interest is paid at the end of the term, while the principal is repaid in equal parts.
+<question> Which of the following is a disadvantage of government bonds?
+<variant> Low reliability.
+<variant> High volatility.
+<variant> High risk of default.
+<variantright> Low yield.
+<question> Which bonds are generally considered the safest investment?
+<variantright> Treasury bonds.
+<variant> Corporate bonds.
+<variant> Municipal bonds.
+<variant> Junk bonds.
+<question> What is financial literacy?
+<variantright> The ability to understand and manage personal finances effectively.
+<variant> Knowing how to spend money without a plan.
+<variant> The study of global financial markets.
+<variant> Saving all your income without spending.
+<question> What is a budget?
+<variant> A list of all your debts.
+<variant> A tax report submitted annually.
+<variantright> A plan for managing income and expenses.
+<variant> A bank account used for savings only.
+<question> What is saving?
+<variant> Borrowing money for immediate needs.
+<variant> Investing in risky assets without a plan.
+<variant> Spending all your money on necessities.
+<variantright> Setting aside money for future use.
+<question> What does “spending wisely” mean?
+<variant> Spending all your money on luxury items.
+<variant> Borrowing money for unnecessary purchases.
+<variant> Avoiding spending money altogether.
+<variantright> Using money for necessary and valuable things, avoiding waste.
+<question> What is an emergency fund?
+<variant> A loan taken out during emergencies.
+<variant> Investments in high-risk ventures.
+<variantright> Money saved for unexpected expenses.
+<variant> Money used for daily expenses.
+<question> What is financial independence?
+<variant> Borrowing money to cover all expenses.
+<variant> Being employed full-time by a large company.
+<variant> Receiving financial support from friends and family.
+<variantright> Having enough money to meet your needs without relying on others.
+<question> What does financial risk mean?
+<variant> A guaranteed way to make money.
+<variant> The inability to borrow money.
+<variant> A plan to spend all your savings.
+<variantright> The possibility of losing money.
+<question> Why is saving for retirement important?
+<variantright> To ensure financial security in old age.
+<variant> To avoid paying taxes.
+<variant> To spend money on luxuries in the present.
+<variant> To reduce monthly income expenses.
+<question> What is disposable income?
+<variant> Money earned before paying taxes.
+<variant> Total income including loans.
+<variant> Money set aside for investments only.
+<variantright> Money left after paying taxes and essentials.
+<question> What is a financial asset?
+<variant> A liability that increases your debt.
+<variant> A non-valuable possession.
+<variant> Money spent on entertainment.
+<variantright> Something of value that can generate income.
+<question> What is the primary purpose of insurance?
+<variantright> To protect against financial consequences of losses.
+<variant> To increase the policyholder’s income.
+<variant> To reduce taxes.
+<variant> To guarantee wages.
+<question> What is the payment for insurance protection called?
+<variant> Deposit.
+<variant> Reserve.
+<variantright> Premium.
+<variant> Policy.
+<question> Which of the following is NOT a function of insurance?
+<variant> Risk.
+<variantright> Control.
+<variant> Productive.
+<variant> Saving.
+<question> What does the economic aspect of insurance mean?
+<variantright> Protecting capital and labor from unforeseen events.
+<variant> Signing legal contracts.
+<variant> Organizing the collection of premiums.
+<variant> Ensuring financial discipline.
+<question> What types of risks does insurance cover?
+<variant> Risks that can be exactly predicted.
+<variant> All possible risks.
+<variantright> Risks chosen by the policyholder.
+<variant> Unpredictable events leading to losses.
+<question> Which insurance function is related to future savings?
+<variant> Control.
+<variant> Precautionary.
+<variantright> Saving.
+<variant> Risk.
+<question> Which type of insurance protects health?
+<variantright> Accident and health insurance.
+<variant> Motor insurance.
+<variant> Property insurance.
+<variant> Travel insurance.
+<question> Which types of insurance are recognized in Kazakhstan’s legislation?
+<variantright> Personal, property, professional.
+<variant> Life, annuities, health, accidents.
+<variant> Life, disability, liability.
+<variant> Travel, health, auto.
+<question> What is the first step when arranging insurance?
+<variant> Sign the policy.
+<variantright> Calculate the value of the item.
+<variant> File a complaint.
+<variant> Go to court.
+<question> Which feature is specific to life insurance?
+<variantright> Risk and saving functions.
+<variant> Only the risk function.
+<variant> Coverage only for fires.
+<variant> Reserves used only for repairs.
+<question> What is an example of the precautionary function of insurance?
+<variant> Recording loss statistics.
+<variant> Allocating reserve funds.
+<variantright> Funding fire prevention measures.
+<variant> Increasing insurance premiums.
+<question> Which type of insurance necessarily includes a saving function?
+<variant> Property insurance.
+<variant> Liability insurance.
+<variant> Health insurance.
+<variantright> Life insurance.
+<question> What benefit does insurance provide to society?
+<variant> Reduces taxes.
+<variantright> Promotes economic growth.
+<variant> Increases personal expenses.
+<variant> Ensures unemployment.
+<question> What is the main function of money in an economy?
+<variant> To regulate taxes.
+<variant> To create inflation.
+<variantright> To serve as a medium of exchange.
+<variant> To increase market prices.
+<question> Why is the time value of money important in finance?
+<variantright> Money today is worth more than the same amount in the future due to its earning potential.
+<variant> It ensures that everyone gets paid on time.
+<variant> It increases the money supply in the economy.
+<variant> It prevents inflation.
+<question> Which of the following is a feature of a primary financial market?
+<variant> Trading of used securities.
+<variant> Issuance of counterfeit money.
+<variantright> Issuance of new securities.
+<variant> Regulation of stock prices.
+<question> What determines the interest rate on a loan?
+<variant> The amount of gold a country holds.
+<variant> Random market fluctuations.
+<variantright> The cost of borrowing money, including risk and inflation expectations.
+<variant> The number of banks in a region.
+<question> What is the role of the Federal Reserve in monetary transactions?
+<variant> Collecting taxes.
+<variantright> Controlling money supply and setting interest rates.
+<variant> Printing credit cards.
+<variant> Approving loans for individuals.
+<question> How does inflation impact the purchasing power of money?
+<variant> It makes money more valuable.
+<variant> It increases investment risks.
+<variant> It prevents economic growth.
+<variantright> It reduces the purchasing power of money over time.
+<question> What is an annuity in financial terms?
+<variant> A type of savings account.
+<variantright> A series of equal payments made at regular intervals.
+<variant> A one-time payment made for an asset.
+<variant> A financial penalty.
+<question> What is a common example of "credit money"?
+<variant> Coins and paper currency.
+<variant> Cryptocurrency.
+<variant> Precious metals like gold.
+<variantright> Funds held in a checking account.
+<question> Which measure best describes the money supply in an economy?
+<variant> Government debt levels.
+<variantright> M1 and M2 money supply.
+<variant> Stock market performance.
+<variant> The number of financial institutions.
+<question> What does "diversification" in investments mean?
+<variantright> Spreading investments across different assets to reduce risk.
+<variant> Investing all funds in a single high-performing stock.
+<variant> Avoiding investments during high inflation periods.
+<variant> Investing only in government securities.
+<question> Which of the following affects the calculation of bond value?
+<variant> The company's stock performance.
+<variantright> Interest rates and time to maturity.
+<variant> The number of bondholders.
+<variant> The bond's popularity.
+<question> What is the purpose of a balance sheet in financial management?
+<variantright> To provide a snapshot of a company’s assets, liabilities, and equity at a specific point in time.
+<variant> To predict future stock prices.
+<variant> To track customer payments.
+<variant> To record daily expenses.
+<question> What is a "discount rate" in the context of time value of money?
+<variant> The amount deducted from your total loan.
+<variantright> The rate used to calculate the present value of future cash flows.
+<variant> The penalty for late payments.
+<variant> The interest rate offered by credit unions.
+<question> How can the risk in an investment be mitigated?
+<variant> By investing only in stocks.
+<variant> By avoiding financial markets altogether.
+<variantright> By diversifying investments across different assets.
+<variant> By borrowing money to invest.
+<question> What is the role of a financial institution in payment systems?
+<variant> Creating new currencies.
+<variant> Deciding national monetary policies.
+<variantright> Facilitating transactions between buyers and sellers.
+<variant> Setting product prices.
+<question> Which of the following accurately reflects the "50/30/20 Rule" of budgeting?
+<variant> Allocate 50% to savings, 30% to wants, and 20% to needs.
+<variantright> Spend 50% on essentials, 30% on discretionary items, and 20% on savings or debt repayment.
+<variant> Use 50% for fixed expenses, 30% for variable expenses, and 20% for leisure.
+<variant> Divide income equally among savings, spending, and investments.
+<question> In personal finance, how does the time value of money influence budgeting strategies?
+<variant> It promotes spending over saving due to inflation risks.
+<variantright> It emphasizes investing savings early to maximize future returns.
+<variant> It only applies to corporate financial decisions, not personal budgeting.
+<variant> It discourages the use of debt as a financial tool.
+<question> What influences the choice of savings medium?
+<variant> Market interest rates only.
+<variantright> Liquidity, safety, and potential returns.
+<variant> Current investment opportunities.
+<variant> Government policies on savings.
+<question> Which factor is NOT essential in building a budget?
+<variantright> Predicting market returns on savings.
+<variant> Estimating regular income.
+<variant> Tracking fixed and variable expenses.
+<variant> Allocating funds for emergencies.
+<question> Why is the importance of personal savings liquidity emphasized?
+<variant> To maximize investment returns.
+<variant> To reduce tax liabilities on investment income.
+<variantright> To ensure funds are accessible for emergencies or unforeseen expenses.
+<variant> To encourage long-term capital market participation.
+<question> What key metric can individuals use to assess the efficiency of their budget in aligning with financial goals?
+<variant> Debt-to-income ratio.
+<variant> Total monthly discretionary spending.
+<variant> Savings-to-income ratio.
+<variantright> Net worth growth rate over time.
+<question> Why is it critical to periodically review and adjust personal budgets?
+<variant> To ensure compliance with financial institutions’ guidelines.
+<variant> To maintain static allocation percentages regardless of economic conditions.
+<variant> To prepare for unexpected reductions in tax rates.
+<variantright> To respond to changing income, expenses, and financial priorities.
+<question> In what way can underestimating future fixed expenses impact long-term financial goals?
+<variant> It ensures greater savings for discretionary spending.
+<variantright> It leads to budget deficits and potential reliance on debt.
+<variant> It simplifies the budgeting process by focusing on current needs.
+<variant> It improves liquidity for investment purposes.
+<question> What is a major financial risk of not tracking small, frequent discretionary expenses?
+<variant> It significantly underestimates disposable income.
+<variantright> It leads to cumulative overspending and budget deficits.
+<variant> It reduces tax benefits associated with savings.
+<variant> It results in excessive allocation to fixed expenses.
+<question> What is the individual income tax (IIT)?
+<variant> A voluntary contribution to the budget.
+<variantright> A mandatory tax on individuals’ income.
+<variant> A payment for public services.
+<variant> A government subsidy.
+<question> What is the standard rate of individual income tax (IIT) for individuals in Kazakhstan in 2024?
+<variant> 5%.
+<variantright> 10%.
+<variant> 12%.
+<variant> 15%.
+<question> What types of income are exempt from IIT in 2024?
+<variant> Interest on deposits.
+<variantright> Social benefits and allowances.
+<variant> Lottery winnings.
+<variant> Rental income.
+<question> Who is required to file an income declaration in Kazakhstan in 2024?
+<variant> All individuals aged 18 and older.
+<variantright> Persons owning significant assets and civil servants.
+<variant> Only entrepreneurs.
+<variant> Only individuals working abroad.
+<question> What is the minimum income threshold exempt from taxation for individuals in 2024?
+<variant> 1 minimum wage (MW) per month.
+<variant> 14 MW per year.
+<variantright> 16 MW per year.
+<variant> All income is taxable.
+<question> What taxes must an individual owning a car in Kazakhstan pay?
+<variant> Property tax.
+<variant> Land tax.
+<variantright> Vehicle tax.
+<variant> Excise duty.
+<question> What does the simplified tax regime for individual entrepreneurs include in 2024?
+<variantright> Unified social payment.
+<variant> Exemption from all taxes.
+<variant> Payment of only IIT and social tax.
+<variant> Payment of a fixed tax.
+<question> Which body administers taxes in the Republic of Kazakhstan?
+<variant> National Bank.
+<variant> Ministry of Finance.
+<variantright> State Revenue Committee (SRC).
+<variant> National Wealth Fund.
+<question> By what deadline must individuals pay vehicle tax for 2024?
+<variant> By March 31 of the following year.
+<variant> By July 1 of the following year.
+<variantright> By December 31 of the current year.
+<variant> By January 15 of the following year.
+<question> What penalties are imposed for late tax payments by individuals in Kazakhstan?
+<variant> Only interest charges.
+<variantright> Fines and interest charges.
+<variant> Criminal liability.
+<variant> Loss of property ownership rights.
+<question> What is the primary purpose of a savings account?
+<variant> To invest in stocks.
+<variantright> To earn interest while saving money.
+<variant> To obtain a credit card.
+<variant> To pay off loans.
+<question> What services do commercial banks typically provide to individuals?
+<variant> Currency exchange.
+<variant> Loan services.
+<variantright> All of the given.
+<variant> Opening deposit accounts.
+<question> What is a debit card?
+<variantright> A payment card that uses the client's account funds.
+<variant> A card used for taking loans.
+<variant> A card for investing in stocks.
+<variant> A card for withdrawing foreign currency.
+<question> What type of card allows customers to borrow money up to a predefined limit?
+<variant> Debit card.
+<variantright> Credit card.
+<variant> Prepaid card.
+<variant> Travel card.
+<question> Which of the following services is NOT typically offered by retail banks to individuals?
+<variant> Mortgage lending.
+<variant> Small business loans.
+<variant> Merchant account services.
+<variantright> Tax-exempt municipal bonds.
+<question> What is the role of ATMs (Automated Teller Machines) in banking services?
+<variant> Approving personal loans.
+<variantright> Dispensing cash and providing account information.
+<variant> Offering investment portfolio management.
+<variant> Granting credit scores to customers.
+<question> A customer seeking to purchase a house would typically apply for which type of bank loan?
+<variant> Personal loan.
+<variantright> Mortgage loan.
+<variant> Payday loan.
+<variant> Business loan.
+<question> Which of the following best describes a checking account?
+<variantright> An account that allows for frequent deposits and withdrawals for daily transactions.
+<variant> An account used to store long-term savings with high interest.
+<variant> An account that only accepts wire transfers.
+<variant> An account used for investing in stocks.
+<question> What type of banking service allows customers to borrow money for purchasing a car?
+<variant> Home loan.
+<variant> Personal loan.
+<variantright> Auto loan.
+<variant> Mortgage loan.
+<question> What is the purpose of a bank's credit scoring system?
+<variantright> To decide how much money to lend to each customer.
+<variant> To determine a customer's monthly fees for banking services.
+<variant> To predict a customer's likelihood of using an ATM.
+<variant> To calculate the interest on savings accounts.
+<question> What is the primary function of retail banking services?
+<variant> Managing corporate investments.
+<variantright> Providing loans and financial products to individuals.
+<variant> Trading in foreign currencies.
+<variant> Developing investment strategies for large corporations.
+<question> What is the role of ATM services in personal banking?
+<variant> To facilitate international fund transfers.
+<variantright> To provide self-service access to account balances, withdrawals, and deposits.
+<variant> To issue credit cards.
+<variant> To provide financial advice.
+<question> What is the minimum deposit term usually required by banks?
+<variant> 1 day.
+<variant> 3 months.
+<variant> 6 months.
+<variantright> 1 year.
+<question> What is the main function of mobile banking?
+<variant> Opening new accounts.
+<variantright> Managing finances and making payments.
+<variant> Consulting on investments.
+<variant> Issuing loans.
+<question> What is an interest rate on a loan?
+<variant> The total loan amount provided by the bank.
+<variantright> The cost of borrowed funds for the client, expressed as a percentage.
+<variant> The client’s income from a deposit.
+<variant> A fee for using an ATM.
+<question> What is the process called when a bank checks a client's creditworthiness before issuing a loan?
+<variantright> Credit scoring.
+<variant> Auditing.
+<variant> Financial analysis.
+<variant> Market research.
+<question> What is an overdraft?
+<variantright> An authorized overspending on a bank account.
+<variant> The amount transferred to another account.
+<variant> Interest earned on a deposit.
+<variant> Insurance for bank deposits.
+<question> What does a savings account primarily offer?
+<variant> Easy access to funds for everyday spending.
+<variantright> A safe place to store money and earn interest.
+<variant> Investment in stocks and bonds.
+<variant> A way to make international payments.
+<question> Which institution typically guarantees the safety of deposits in case a bank fails?
+<variant> Central Bank.
+<variantright> Deposit Insurance Fund.
+<variant> Commercial Bank.
+<variant> Ministry of Finance.
+<question> What does a bank require to open a new account for an individual?
+<variant> Only a passport.
+<variantright> Identification and proof of address.
+<variant> Credit score.
+<variant> A deposit of at least $1,000.
+<question> How does compound interest differ from simple interest in savings accounts?
+<variant> Compound interest is calculated only on the initial deposit.
+<variant> Simple interest includes earnings on previously accrued interest.
+<variantright> Compound interest includes earnings on both the principal and previously earned interest.
+<variant> Simple interest grows faster over time than compound interest.
+<question> What is the primary risk of opting for variable interest rates on loans?
+<variant> The interest rate may decrease, reducing total repayments.
+<variant> The loan term may be shortened due to rate fluctuations.
+<variantright> The interest rate may increase, leading to higher repayment costs.
+<variant> The loan might be converted into a fixed-rate loan unexpectedly.
+<question> What is « insurance » according to the given definition?
+<variantright> Insurance is a contract/document that provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a specified premium.
+<variant> Insurance is a contract/document that guarantees investment returns without any risk.
+<variant> Insurance is a contract/document that provides a guarantee of compensation for any type of financial gain.
+<variant> Insurance is a contract/document that ensures legal advice and tax benefits.
+<question> Which of the following is NOT a function of insurance?
+<variant> Risk.
+<variant> Precautionary.
+<variantright> Investment Returns.
+<variant> Control.
+<question> Which of the following combinations includes only « types of insurance »?
+<variantright> Life, Health, Property, Travel.
+<variant> Auto/Vehicle, Disability, Business Profit, Real Estate.
+<variant> Disability, Health, Lottery, Travel.
+<variant> Life, Education, Investment, Property.
+<question> Which of the following types of personal insurance is defined by the law of the Republic of Kazakhstan?
+<variant> Life, health, and property insurance.
+<variantright> Life, annuity, and accident insurance.
+<variant> Pension, deposit, and annuity insurance.
+<variant> Only mandatory health insurance.
+<question> What happens with decreasing insurance sums?
+<variantright> The insurance amount decreases.
+<variant> The premium increases.
+<variant> The policy becomes invalid.
+<variant> The premium remains fixed.
+<question> From a legal point of view, what is insurance considered as?
+<variant> A tax benefit.
+<variantright> A contract between the policyholder and the insurer.
+<variant> An investment account.
+<variant> A financial plan for retirement.
+<question> What is the preventive function in insurance associated with?
+<variant> Investment growth through premium accumulation.
+<variantright> Planning and financing measures to prevent fires, natural disasters, and diseases of agricultural animals.
+<variant> Immediate compensation for economic losses.
+<variant> Offering legal advice and tax benefits.
+<question> Which insurance function ensures financial control over the formation of insurance reserves and checks the fulfillment of insurance conditions by the insured?
+<variant> Risk function.
+<variant> Precautionary function.
+<variantright> Control function.
+<variant> Saving function.
+<question> What is the object of insurance in life insurance?
+<variant> Financial risks.
+<variant> Tangible assets.
+<variantright> Human life.
+<variant> Business income.
+<question> Which type of insurance refers to contracts where the beneficiary and the policyholder are the same person?
+<variantright> A contract with respect to one's own life.
+<variant> A contract for profit.
+<variant> A contract for loss of property.
+<variant> A contract in case of natural disaster.
+<question> What aspects of risk are considered in life insurance?
+<variant> Loss of health and property.
+<variantright> Dying at a young age or surviving to old age.
+<variant> Loss of income and political instability.
+<variant> The impact of inflation and a lower standard of living.
+<question> For how long are life insurance contracts concluded?
+<variant> Less than one year.
+<variant> For an indefinite term.
+<variantright> At least one year.
+<variant> For a term of up to three months.
+<question> What types of insurance compensation are available in life insurance?
+<variantright> A single compensation payment and compensation in the form of partial payments.
+<variant> Payments for medical services.
+<variant> Theft compensation.
+<variant> Lump sum only.
+<question> Which insurance function redistributes reserves to assist victims of unforeseen events?
+<variant> Control function.
+<variantright> Risk function.
+<variant> Preventive function.
+<variant> Saving function.
+<question> What is the primary purpose of insurance?
+<variant> To increase income from insurance premiums.
+<variantright> To cover losses against the negative consequences of unforeseen events.
+<variant> To ensure stability of financial investments.
+<variant> To ensure political stability.
+<question> What is the primary purpose of creating a personal budget?
+<variantright> To track financial goals and priorities.
+<variant> To set aside money for unexpected expenses.
+<variant> To minimize taxes and maximize income.
+<variant> To reduce the need for borrowing money.
+<question> Which of these are not principles of distributing expenses?
+<variant> Pay yourself first by allocating a portion of income for savings before other expenses.
+<variant> Divide all expenses into mandatory and optional to manage unforeseen situations.
+<variantright> Increase your expenses proportionally when your income rises.
+<variant> Let expenses grow more slowly than income to maintain financial stability.
+<question> In a balanced budget, how is income typically distributed?
+<variant> 50% for savings, 40% for essentials, 10% for entertainment.
+<variantright> 50% for essentials, 30% for entertainment, 20% for savings.
+<variant> 40% for essentials, 30% for savings, 30% for entertainment.
+<variant> 60% for essentials, 20% for savings, 20% for entertainment.
+<question> What is a characteristic of an economical budget type?
+<variant> Investing primarily in low-risk assets.
+<variantright> Balancing between essentials and discretionary spending.
+<variant> Spending freely without long-term planning.
+<variant> Prioritizing savings and minimizing expenses.
+<question> What is the first step in effective personal financial planning?
+<variant> Listing all sources of income.
+<variant> Categorizing monthly expenses.
+<variantright> Identifying income and expenses.
+<variant> Setting long-term financial goals.
+<question> What is a common drawback of using a paper method for budgeting?
+<variant> High cost of materials.
+<variant> Poor compatibility with modern banking systems.
+<variant> Limited ability to record variable expenses.
+<variantright> Difficulty in calculating totals and making adjustments.
+<question> Which of the following is a key principle of financial planning?
+<variant> Ensuring all expenses are categorized and tracked accurately.
+<variant> Maintaining an emergency fund equal to six months of expenses.
+<variant> Focusing on reducing debt while increasing discretionary spending.
+<variantright> Avoiding expenses that exceed income over any budgeting period.
+<question> Which of the following could be a challenge of maintaining an economical budget?
+<variantright> Stress from constant expense tracking.
+<variant> Difficulty in identifying income sources.
+<variant> Lack of sufficient funds for essentials.
+<variant> Risk of overspending on discretionary items.
+<question> When planning a significant expense, what should be the primary consideration?
+<variant> Whether the item can be financed through flexible payment options.
+<variant> Whether the cost can be covered by reallocating discretionary funds.
+<variant> The possibility of leveraging discounts for reduced total costs.
+<variantright> If the purchase aligns with long-term goals and financial plans.
+<question> A major drawback of a wasteful budget is:
+<variant> Limited ability to fund short-term priorities like gifts or holidays.
+<variant> Over-reliance on external financial tools like loans or credit cards.
+<variantright> Lack of long-term financial stability and emergency reserves.
+<variant> Difficulty in tracking fluctuating expenses across categories.
+<question> What distinguishes taxes from government loans?
+<variantright> Taxes are irrevocable payments to the state.
+<variant> Taxes are returned to the payer over time.
+<variant> Taxes involve a two-way money flow.
+<variant> Taxes are always temporary obligations.
+<question> What is an annuity?
+<variant> A large one-time payment.
+<variantright> A series of equal payments made over time.
+<variant> A type of investment that grows indefinitely without payments.
+<variant> A loan that must be repaid in one lump sum.
+<question> What is an ordinary annuity?
+<variantright> Equal payments made at the end of each time period.
+<variant> Equal payments made at the beginning of each time period.
+<variant> A single payment made at the start of an investment.
+<variant> Payments that vary over time.
+<question> What defines an annuity due?
+<variant> Payments are made at the end of each time period.
+<variantright> Payments are made at the beginning of each time period.
+<variant> Payments decrease gradually over time.
+<variant> Payments are made only once.
+<question> Which of the following is NOT a typical bootstrapping strategy?
+<variant> Save on rent by working from home or using coworking spaces.
+<variant> Borrow, lease, or get office equipment for free.
+<variant> Offer equity instead of cash for advice or help.
+<variantright> Secure large investments from venture capitalists to scale quickly.
+<question> Which of the following is NOT a common tactic used in bootstrapping a business?
+<variant> Minimize your salary and use personal networks for resources.
+<variant> Travel frugally and build connections at events.
+<variant> Negotiate with suppliers and offer early customer discounts.
+<variantright> Hire full-time employees from the start to scale operations.
+<question> Which of the following is NOT a type of revenue model?
+<variant> Freemium Revenue Model.
+<variant> Subscription Revenue Model.
+<variantright> Luxury Goods Revenue Model.
+<variant> Advertising Revenue Model.
+<question> Which revenue model involves generating income through ongoing payments for access to a service or product?
+<variantright> Subscription Revenue Model.
+<variant> Unit Sales Revenue Model.
+<variant> Franchising Revenue Model.
+<variant> Utility and Usage Revenue Model.
+<question> Which of the following revenue models is based on offering basic services for free while charging for premium features or services?
+<variant> Subscription Revenue Model.
+<variantright> Freemium Revenue Model.
+<variant> Advertising Revenue Model.
+<variant> Utility and Usage Revenue Model.
+<question> Which revenue model involves generating income by providing services or goods on a pay-per-use basis, often used by utilities or cloud services?
+<variantright> Utility and Usage Revenue Model.
+<variant> Professional Revenue Model.
+<variant> Data Revenue Model.
+<variant> Freemium Revenue Model.
+<question> Which revenue model involves earning income through fees charged for the right to use intellectual property, such as software or patents?
+<variant> Franchising Revenue Model.
+<variantright> Licensing Revenue Model.
+<variant> Data Revenue Model.
+<variant> Freemium Revenue Model.
+<question> What is the primary objective of financial literacy?
+<variant> To increase the value of investments.
+<variantright> To ensure effective personal financial management.
+<variant> To predict stock market trends.
+<variant> To eliminate debt entirely.
+<question> Which of the following is NOT included in the M1 money supply?
+<variant> Physical currency.
+<variant> Checking accounts.
+<variantright> Savings accounts.
+<variant> Traveler's checks.
+<question> When creating a personal budget, what is the first step?
+<variant> Allocate money for savings.
+<variantright> Identify all sources of income.
+<variant> Plan for unexpected expenses.
+<variant> Limit discretionary spending.
+<question> How do progressive tax systems affect individual taxpayers?
+<variant> All taxpayers pay the same tax rate.
+<variant> Tax rates decrease as income increases.
+<variantright> Higher income leads to higher tax rates.
+<variant> Tax rates are fixed regardless of income.
+<question> What type of bank account typically offers the highest interest rates?
+<variant> Checking accounts.
+<variantright> Certificates of deposit (CDs).
+<variant> Regular savings accounts.
+<variant> Money market accounts.
+<question> Which type of insurance is designed to replace income in the event of an individual’s disability?
+<variant> Life insurance.
+<variantright> Disability insurance.
+<variant> Health insurance.
+<variant> Homeowner’s insurance.
+<question> What does “diversification” in achieving the investing goal mean?
+<variant> Maximizing risk.
+<variant> Concentrating investment in one asset type.
+<variantright> Reducing risk by spreading investments.
+<variant> Ensuring guaranteed returns.
+<question> What is the primary role of a financial market?
+<variant> To provide loans to businesses.
+<variantright> To facilitate the transfer of funds between savers and borrowers.
+<variant> To regulate bank transactions.
+<variant> To control national monetary policy.
+<question> Which of the following is a tool of monetary policy?
+<variant> Taxation.
+<variantright> Reserve requirements.
+<variant> Government spending.
+<variant> Trade tariffs.
+<question> What is a primary factor in determining the price of a stock?
+<variant> The company's location.
+<variant> The CEO’s reputation.
+<variantright> The company's future earnings potential.
+<variant> The type of product the company sells.
+<question> What are taxes?
+<variantright> Mandatory, one-sided, gratuitous, and irrevocable payments to the state budget.
+<variant> Voluntary payments to the state for social projects.
+<variant> Donations made to public funds.
+<variant> Loans that taxpayers provide to the government.
+<question> Which of the following is a legal feature of taxes?
+<variant> Payment to the state is voluntary.
+<variant> Taxes are stable and long-term economic relations.
+<variantright> Taxes are established by the state and enforced by law.
+<variant> Taxes are equivalent to fines.
+<question> Which of the following is NOT an economic feature of taxes?
+<variant> Irrevocable and non-equivalent nature.
+<variantright> Taxes are refunded after the fiscal year ends.
+<variant> Payment creates stable tax relations.
+<variant> Presence of a taxpayer and object of taxation.
+<question> What is the primary function of taxes?
+<variant> Administrative.
+<variantright> Fiscal.
+<variant> Regulatory.
+<variant> Social.
+<question> What does the fiscal function of taxes ensure?
+<variant> Government borrowing from citizens.
+<variant> Redistribution of wealth in favor of wealthier sectors.
+<variantright> Material conditions for financing the state’s activities.
+<variant> Complete removal of social inequalities.
+<question> What does the regulatory function of taxes do?
+<variant> Prevents any redistribution of income.
+<variantright> Encourages or discourages specific economic activities.
+<variant> Provides tax refunds.
+<variant> Eliminates progressive taxation.
+<question> Which sub-function of taxes aims to discourage consumption of certain goods like alcohol?
+<variant> Stimulating.
+<variantright> Preventing.
+<variant> Fiscal.
+<variant> Production.
+<question> Which of the following is a principle of taxation?
+<variant> Complexity of tax calculations.
+<variantright> Economic neutrality of taxation.
+<variant> Taxation without predetermined rules.
+<variant> Unlimited tax privileges.
+<question> What is Adam Smith known for in the field of taxation?
+<variant> Introducing flat tax rates for all taxpayers.
+<variantright> Developing the "Taxation of maxims" or "Magna Carta payer" principles.
+<variant> Eliminating taxes altogether.
+<variant> Introducing tax exemptions for monopolies.
+<question> Which revenue model involves earning money through advertising space or exposure to users or customers on a platform?
+<variantright> Advertising Revenue Model.
+<variant> Subscription Revenue Model.
+<variant> Professional Revenue Model.
+<variant> Freemium Revenue Model
+<question> Which of the following statements is true about the 14 MCI (Monthly Calculation Indicator) tax payment?
+<variantright> The 14 MCI is applicable to all individuals and legal entities, regardless of nationality, for tax payments in Kazakhstan.
+<variant> The 14 MCI is applicable only for foreign nationals working in Kazakhstan for tax payments.
+<variant> The 14 MCI is specifically used by Kazakh citizens for certain tax obligations.
+<variant> The 14 MCI tax payment is waived for citizens living outside Kazakhstan.
+<question> How much are the Mandatory Pension Contributions (ОПВ) in Kazakhstan?
+<variant> 5%
+<variantright> 10%
+<variant> 15%
+<variant> 20%
+<question> What is the role of the Individual Income Tax (ИПН) in Kazakhstan's tax system?
+<variant> It is a tax on company profits.
+<variantright> It is levied on the income of individuals.
+<variant> It applies to only foreign workers.
+<variant> It is a tax on imported goods.
+<question> What is the defining characteristic of junk bonds?
+<variant> High credit quality with minimal risk.
+<variantright> Low credit quality with higher credit risk.
+<variant> Fixed returns regardless of market conditions.
+<variant> Guaranteed investment-grade ratings.
+<question> Why might investors choose to include junk bonds in their portfolios?
+<variant> To guarantee a fixed income.
+<variantright> To diversify risk and enhance potential returns.
+<variant> To minimize exposure to high-yield securities.
+<variant> To avoid tax implications of high-risk investments.
+<question> What are “fallen angels” in the bond market?
+<variant> Bonds that were never rated.
+<variantright> Bonds that used to be good quality but are now risky (junk status).
+<variant> Bonds that improved to investment-grade status.
+<variant> Bonds issued only by tech companies.
+<question> Why might an unrated bond have trouble attracting investors?
+<variantright> Investors may think it’s too risky or the company is hiding something.
+<variant> Agencies don’t let people buy unrated bonds.
+<variant> Unrated bonds are automatically considered bad.
+<variant> Laws forbid buying unrated bonds.
+<question> What rating indicates that a bond is considered “junk”?
+<variant> Aaa by Moody’s.
+<variant> BBB– or better by S&P.
+<variantright> Ba1 or BB+ or lower.
+<variant> AAA by Fitch.
+<question> What is present value (PV)?
+<variantright> The value today of a savings amount or investment.
+<variant> The value of an investment at a specified time in the future.
+<variant> The rate of return on an investment.
+<variant> The interest earned on an investment.
+<question> What is future value (FV)?
+<variant> The value today of a savings amount or investment.
+<variantright> The value of a savings amount or investment at a specified time or date in the future.
+<variant> The current worth of a sum of money.
+<variant> The interest rate applied to a savings amount.
+<question> What is inflation?
+<variant> An increase in the quality of goods and services without affecting their prices.
+<variant> An increase in the price of goods or services that is offset by an increase in quality.
+<variantright> An increase in the price of goods or services that is not offset by an increase in quality.
+<variant> A decrease in the prices of goods and services without changing their quality.
+<question> What does "horizontal equality" in taxation mean?
+<variant> Different tax rates for various income levels.
+<variantright> Equal taxation conditions for taxpayers with similar incomes.
+<variant> Tax privileges for specific groups.
+<variant> Higher taxes on luxury goods.
+<question> Which formula is used to calculate the Future Value (FV) of an investment?
+<variantright> FV = PV ⋅ (1 + r)^n
+<variant> FV = PV / (1 + r)^n
+<variant> FV = PV + (r ⋅ n)
+<variant> FV = PV − (r ⋅ n)
+<question> What formula is used to find the Present Value (PV) when you know the Future Value (FV), interest rate (r), and number of periods (n)?
+<variant> PV = FV ⋅ (1 + r)^n
+<variantright> PV = FV / (1 + r)^n
+<variant> PV = FV ⋅ (1 − r)^n
+<variant> PV = FV + (r ⋅ n)
+<question> What is the process of discounting?
+<variant> A process where the present value increases at a compound interest rate over time.
+<variant> A method for reducing the future value of a sum of money at a simple interest rate to find the present value.
+<variantright> An arithmetic process whereby a future value decreases at a compound interest rate over time to reach a present value.
+<variant> A technique for calculating the future value based on present value and an inflation rate.
+<question> What is compounding?
+<variant> The process of reducing the value of an investment over time.
+<variant> The process of earning interest on the principal amount only.
+<variantright> The process whereby an initial value increases or grows at a compound interest rate over time to reach a value in the future.
+<variant> The process of receiving a fixed return on an investment.
+<question> What is the trade-off in a bank's approach to loan portfolios and credit risk?
+<variant> Maximizing the loan portfolio with no concern for credit risk.
+<variantright> Balancing the size of the loan portfolio with the level of acceptable credit risk.
+<variant> Reducing credit risk by only offering government-backed loans.
+<variant> Focusing solely on secondary reserves to avoid any credit risk.
+<question> What is simple interest?
+<variant> Interest earned on both the principal and accumulated interest.
+<variantright> Interest earned only on the initial investment or principal amount.
+<variant> Interest calculated using a compound interest formula.
+<variant> Interest earned only at the end of the investment period.
+<question> What is the time value of money?
+<variantright> The process of earning a financial return, such as interest, over time by saving or investing money.
+<variant> The total value of an investment at the end of the period.
+<variant> The principle that the value of money remains the same over time.
+<variant> The calculation of how much money will be needed to reach a future financial goal.
+<question> What does the Investor Model of crowdfunding involve?
+<variant> Donors receive only non-financial rewards.
+<variantright> Backers provide funds in exchange for shares in the business or profits.
+<variant> Investors lend money with no expectation of repayment.
+<variant> Contributors donate funds for charity without expecting anything in return.
+<question> What is a common feature shared by PatientsLikeMe, Local Motors, and Wikihouse?
+<variant> They all use crowdfunding to raise capital for their projects.
+<variantright> They all rely on crowdsourcing to gather input and ideas from their communities.
+<variant> They focus primarily on manufacturing physical products.
+<variant> They are examples of for-profit healthcare companies.
+<question> What is interest rate risk?
+<variant> The risk that market interest rates will increase, causing a rise in the price of fixed-rate debt instruments.
+<variant> The risk of fluctuations in the value of variable-rate investments due to changes in market interest rates.
+<variantright> The risk of price fluctuations in fixed-rate debt instruments due to changes in market interest rates.
+<variant> The risk associated with borrowing money at a fixed rate for a long term.
+<question> What are primary reserves?
+<variantright> Cash and short-term securities held by banks that can quickly be converted into cash.
+<variant> Vault cash and deposits at Federal Reserve Banks and other depository institutions.
+<variant> Long-term securities held by banks to earn higher returns.
+<variant> Loans made to individuals and businesses by the bank.
+<question> What are secondary reserves?
+<variant> The reserves that banks must hold at the Federal Reserve.
+<variantright> Highly liquid assets like government securities that can be sold quickly to meet cash needs.
+<variant> The total loans provided by a bank to its customers.
+<variant> The deposits made by customers in checking accounts.
+<question>What is credit (default) risk?
+<variant> The risk that a borrower will make payments on time
+<variantright> The risk that borrowers will fail to make interest or principal payments on loans
+<variant> The risk that interest rates will rise, reducing the profitability of loans
+<variant> The risk that a bank will be unable to meet liquidity demands
+<question>What are the different types of entrepreneurship?
+<variantright> Corporate entrepreneurship (or intrapreneurship), Family Enterprising, Social Entrepreneurship, Serial Entrepreneurs
+<variant> Corporate entrepreneurship, Freelance entrepreneurship, Non-profit entrepreneurship
+<variant> Corporate entrepreneurship, Family Business, Social Startups
+<variant> Intrapreneurship, Entrepreneurship by Organization, Serial Entrepreneurs
+<question>What best describes an entrepreneurial mindset?
+<variantright> The ability to quickly sense, take action, and get organized under uncertain conditions
+<variant> The ability to plan long-term without taking risks
+<variant> The ability to wait for opportunities and avoid uncertainty
+<variant> The ability to follow structured guidelines and avoid deviation
+<question>What is a business model?
+<variant> A marketing strategy for customer acquisition
+<variant> A financial plan to manage company expenses
+<variantright> A conceptual framework that describes how a company creates, delivers, and extracts value
+<variant> A legal structure for organizing business activities
+<question>What are the four parts of a business model?
+<variantright> The offering, the customers, the infrastructure, and the financial viability.
+<variant> The product, the market, the resources, and the management team.
+<variant> The brand, the marketing, the supply chain, and the leadership.
+<variant> The competition, the customer satisfaction, the promotion, and the scalability.
+<question>What does the TRIM framework help identify?
+<variant> The timeline, risks, income, and market for a business idea.
+<variantright> The team, resources, idea, and market for a business idea.
+<variant> The tools, resources, ideas, and methods for business success.
+<variant> The technology, research, innovation, and market needs for a business.
+<question>What is a revenue model in a business?
+<variant> A strategy for identifying target customers and marketing products.
+<variantright> A component of the business model that explains how the company will earn income and generate profits.
+<variant> A framework for managing the operations and resources of a business.
+<variant> A tool for managing financial investments in a company.
+<question>What is Bootstrapping?
+<variant> A method of raising capital from large investors.
+<variantright> A strategy where entrepreneurs use minimal external funding, focusing on resourcefulness.
+<variant> A way to secure venture capital funding for a startup.
+<variant> A financial technique to maximize interest from investments.
+<question>What is the primary benefit of Bootstrapping?
+<variant> Increases reliance on external investors for funding.
+<variantright> Encourages financial discipline and efficient resource management.
+<variant> Reduces the need for a business plan.
+<variant> Allows entrepreneurs to avoid taxes on profits.
+<question>What is Crowdfunding?
+<variant> A loan model for entrepreneurs to borrow from investors.
+<variantright> A method of raising capital by gathering small contributions from a large number of people.
+<variant> A way to start a business using only internal resources.
+<variant> A strategy for raising funds through government grants.
+<question>Which of the following is NOT a common crowdfunding model?
+<variant> Lending model
+<variant> Reward-based model
+<variant> Investor model
+<variantright> Tax-exemption model
+<question>What is the Patronage Model of crowdfunding?
+<variant> Contributors invest money in exchange for equity in a company.
+<variantright> Backers donate to support a cause or project without expecting a return.
+<variant> Contributors lend money to be repaid with interest.
+<variant> Backers receive financial rewards from their contributions.
+<question>What do backers expect in the Reward-based model of crowdfunding?
+<variant> Equity or financial returns.
+<variant> Repayment of loans with interest.
+<variantright> Non-financial rewards like early access or exclusive items.
+<variant> Tax deductions on their contributions.
+<question>What is the rate of Individual Income Tax (ИПН) in Kazakhstan?
+<variant> 5%
+<variantright> 10%
+<variant> 15%
+<variant> 20%
+<question>What is the primary purpose of the Obligatory Social Medical Insurance (ОСМС) in Kazakhstan?
+<variant> To fund education programs
+<variant> To provide health insurance to workers only
+<variantright> To provide medical assistance through the Social Medical Insurance Fund
+<variant> To reduce the cost of medicines
+<question>Which of the following is a SMART financial goal?
+<variant> Save more money this year
+<variantright> Pay off $5,000 in debt within 12 months
+<variant> Become wealthy by retirement
+<variant> Reduce spending significantly
+<question>What is one of the main roles of the Federal Reserve in the U.S. economy?
+<variant> Setting tax rates
+<variantright> Controlling the money supply
+<variant> Issuing government bonds
+<variant> Managing the federal budget
+<question>According to the principles of finance, how are risk and return typically related?
+<variant> Higher risk is associated with lower return
+<variant> Lower risk guarantees higher return
+<variantright> Higher risk is associated with higher potential return
+<variant> Risk and return are unrelated
+<question>What does a premium in an insurance policy represent?
+<variant> The amount paid by the insurer for claims
+<variant> The maximum coverage amount
+<variantright> The periodic payment made by the insured for coverage
+<variant> The deductible required for each claim
+<question>Which category is typically considered a fixed expense in a personal budget?
+<variant> Entertainment
+<variant> Groceries
+<variantright> Rent or mortgage payments
+<variant> Dining out
+<question>What type of tax is based on the value of an individual’s property?
+<variant> Income tax
+<variant> Sales tax
+<variant> Estate tax
+<variantright> Property tax
+<question>Which banking service is specifically designed to help individuals make large purchases while spreading the cost over time?
+<variant> Checking accounts
+<variant> Credit cards
+<variantright> Personal loans
+<variant> Certificates of deposit
+<question>What does a credit score primarily indicate?
+<variant> An individual’s total income
+<variantright> The likelihood of an individual repaying debt
+<variant> The number of credit accounts a person holds
+<variant> The interest rate a person will be charged
+<question>What is the primary function of a stock exchange?
+<variant> To set stock prices
+<variantright> To enable the buying and selling of securities
+<variant> To issue government bonds
+<variant> To manage corporate earnings
+<question>What is one primary advantage of cashless payments?
+<variant> Easy to counterfeit
+<variantright> Protection against counterfeit money
+<variant> Lack of service fees
+<variant> Difficult to use abroad
+<question>Which of the following is a disadvantage of cashless payments?
+<variant> Difficult to carry
+<variant> Risk of losing the card
+<variantright> Potential for account blocking by authorities
+<variant> Limited acceptance in stores
+<question>Why might older generations prefer using cash over cards?
+<variant> Bonuses and cashback
+<variantright> Unlimited offline usability and spending control
+<variant> Protection against theft
+<variant> Ease of online shopping
+<question>Which is NOT an advantage of cashless payments?
+<variant> Modernity and convenience
+<variant> Resistance to fraud and scams
+<variant> Ability to shop online
+<variantright> Cleanliness compared to paper money
+<question>What is a key disadvantage of using cash?
+<variant> Frequent need for bank visits
+<variantright> Risk of theft and counterfeit notes
+<variant> No restrictions on usage abroad
+<variant> Limited spending control
+<question>What is the primary purpose of financial literacy?
+<variant> To understand how to save money
+<variantright> To ensure effective personal financial management
+<variant> To predict stock market behavior
+<variant> To reduce debt through loans
+<question>Which of the following is NOT a characteristic of a progressive tax system?
+<variantright> Higher income leads to higher tax rates
+<variant> Lower income leads to higher tax rates
+<variant> Tax rates increase as income increases
+<variant> It is designed to reduce income inequality
+<question>What is a key feature of mutual funds?
+<variant> They are risk-free investments
+<variantright> They pool money from multiple investors to invest in a diversified portfolio
+<variant> They offer guaranteed returns
+<variant> They are available only to institutional investors
+<question>Which type of insurance protects against financial losses due to legal liabilities?
+<variant> Life insurance
+<variant> Health insurance
+<variantright> Liability insurance
+<variant> Homeowner’s insurance
+<question>What does "compound interest" mean?
+<variant> Interest calculated only on the initial principal
+<variantright> Interest calculated on both the initial principal and accumulated interest
+<variant> Interest charged by the government
+<variant> Interest that is fixed throughout the investment period
+<question>What is the main difference between private and public corporations?
+<variant> Private corporations issue stock to the public.
+<variant> Public corporations are typically smaller than private corporations.
+<variantright> Private corporations' stock is held by a few people and is not for sale to the public.
+<variant> Public corporations are family-owned businesses.
+<question>How can the public access a company’s annual report?
+<variant> By requesting it through the company's website only.
+<variantright> By calling the company, writing to them, or accessing it online.
+<variant> Only by visiting the company’s headquarters.
+<variant> Only by requesting a printed copy through the mail.
+<question>What is the purpose of the letter to stockholders in an annual report?
+<variant> To explain the company’s financial statements in detail.
+<variantright> To highlight the company’s past performance and future goals.
+<variant> To present the company's sales figures only.
+<variant> To provide a list of the company’s stockholders.
+<question>What does the “Management’s Discussion and Analysis” section of the annual report explain?
+<variant> The company’s sales figures for the year.
+<variant> The company’s profits and losses only.
+<variantright> The company’s financial condition and reasons for any changes in performance.
+<variant> A list of the company’s directors and officers.
+<question>What are “consolidated financial statements”?
+<variant> Financial statements that show only the main company’s data.
+<variantright> Financial statements that combine the data of the parent company and its subsidiaries.
+<variant> Statements that only report on cash flows.
+<variant> Statements that only include data from the company’s current fiscal year.
+<question>What is a key feature of a zero-coupon bond?
+<variant> It pays interest semiannually.
+<variantright> It pays no coupon payments but repays the principal at maturity.
+<variant> It provides monthly cash returns to the investor.
+<variant> It offers variable interest rates based on market conditions.
+<question>What is a sinking fund requirement?
+<variantright> A provision for early retirement of a portion of the bond issue over time.
+<variant> A fund where bondholders contribute a portion of their interest payments.
+<variant> A reserve for buying back all bonds at maturity.
+<variant> A requirement to increase bond payments annually.
+<question>How does a sinking fund benefit bondholders?
+<variant> It guarantees fixed returns.
+<variantright> It reduces default risk by ensuring periodic bond redemption.
+<variant> It increases the bond’s yield over time.
+<variant> It allows bondholders to receive dividends.
+<question>What does a stock certificate represent?
+<variant> A claim to dividends only.
+<variantright> Proof of an ownership claim in a specific company.
+<variant> A right to attend company meetings.
+<variant> A guarantee of fixed returns from the company.
+<question>What is common stock?
+<variant> Debt security issued by a corporation.
+<variantright> Ownership shares in a corporation.
+<variant> A type of bond that matures in 10 years.
+<variant> A certificate for preferred dividend payments.
+<question>Which of the following is true of preferred stock?
+<variant> It has no claim on a company’s earnings.
+<variantright> It has a senior claim on earnings and assets compared to common stock.
+<variant> It cannot pay dividends.
+<variant> It always offers voting rights to shareholders.
+<question>What does callable preferred stock allow?
+<variant> The corporation to convert preferred stock into common stock.
+<variantright> The corporation to retire preferred stock at its option.
+<variant> Shareholders to demand early payment of dividends.
+<variant> Automatic renewal of the stock at maturity.
+<question>What is the special feature of convertible preferred stock?
+<variant> It guarantees fixed annual dividends.
+<variant> It allows shareholders to vote on corporate decisions.
+<variantright> It enables conversion to common stock at the shareholder’s option.
+<variant> It pays dividends twice annually.
+<question>What does participating preferred stock allow?
+<variant> Preferred shareholders to receive fixed dividends only
+<variantright> Preferred shareholders to receive additional dividends when common shareholder dividends increase.
+<variant> Common shareholders to vote on dividend distribution.
+<variant> Bondholders to claim priority over stockholders.
+<question>What is a discount bond?
+<variant> A bond that sells at par value.
+<variantright> A bond selling below its par value.
+<variant> A bond that matures early.
+<variant> A bond issued with zero interest payments.
+<question>What are the two ways investors can earn a return from stocks?
+<variant> Stock price rises or company mergers
+<variantright> Stock price rises or dividends
+<variant> Dividends or bond interest
+<variant> Stock splits or dividends
+<question>What is a key advantage of preferred stock over common stock?
+<variant> Preferred stockholders have voting rights
+<variantright> Preferred stock pays a fixed dividend
+<variant> Preferred stock is less risky than common stock
+<variant> Preferred stock always appreciates in value
+<question>What is the purpose of American Depository Receipts (ADRs)?
+<variantright> To allow U.S. investors to easily purchase foreign stocks
+<variant> To convert foreign currency into U.S. dollars
+<variant> To provide tax benefits for foreign investments
+<variant> To create a secondary market for domestic stocks
+<question>Why do firms need to meet specific criteria to be listed on the NYSE?
+<variant> To ensure only profitable companies are traded
+<variantright> To enhance trading volume and market activity
+<variant> To reduce the number of stocks available
+<variant> To simplify the listing process for small companies
+<question>What does the price/earnings (PE) ratio measure?
+<variant> The company's total revenue
+<variantright> How much the market is willing to pay for $1 of earnings
+<variant> The total assets of the company
+<variant> The dividend yield of the stock
+<question>What is the purpose of covenants in a bond indenture, and how do they protect bondholders?
+<variant> Covenants guarantee higher interest payments for bondholders.
+<variant> Covenants allow the company to make changes that hurt bondholders.
+<variantright> Covenants set rules to protect bondholders and make sure the company can pay back the bond.
+<variant> Covenants make the bond easier to sell.
+<question>How can a firm's decision regarding covenant restrictions affect its financing costs?
+<variantright> Stricter rules (covenants) usually make borrowing cheaper for the company.
+<variant> Stricter rules (covenants) usually make borrowing more expensive.
+<variant> Covenant rules don’t affect borrowing costs.
+<variant> Looser rules (covenants) make borrowing more expensive.
+<question>How do bond ratings affect investor confidence and bond sales?
+<variant> Higher bond ratings make bonds less attractive to investors.
+<variant> Lower-rated bonds sell better because they offer higher interest.
+<variant> Bond ratings don’t affect investor confidence or bond sales.
+<variantright> Higher bond ratings help bonds sell faster because investors trust them more.
+<question>What distinguishes investment-grade bonds from junk bonds?
+<variantright> Investment-grade bonds are safer and less risky than junk bonds.
+<variant> Investment-grade bonds are for companies, and junk bonds are for governments.
+<variant> Junk bonds have lower interest rates, making them safer than investment-grade bonds.
+<variant> Investment-grade bonds are riskier than junk bonds.
+<question>Why might a company choose to issue junk bonds despite their higher risk?
+<variant> To attract investors with lower interest rates.
+<variantright> To offer higher interest rates and attract more investors.
+<variant> To reduce their total amount of debt.
+<variant> To follow government rules about bond types.
+<question>What are Eurodollar bonds, and why might they offer lower interest rates compared to U.S. bonds?
+<variantright> Eurodollar bonds are U.S. dollar bonds issued outside the U.S., and they often have lower rates due to tax benefits.
+<variant> Eurodollar bonds are safer, so they offer lower interest rates.
+<variant> Eurodollar bonds are riskier, so they offer higher rates than U.S. bonds.
+<variant> Eurodollar bonds are issued in euros and have higher rates.
+<question>How does the ladder strategy help bond investors manage interest rate risk?
+<variant> The ladder strategy means investing in bonds all with the same maturity date.
+<variantright> The ladder strategy means buying bonds with different maturity dates to spread out the risk.
+<variant> The ladder strategy involves only buying short-term bonds.
+<variant> The ladder strategy focuses on high-risk bonds to earn more interest.
+<question>What does the yield to maturity (YTM) represent, and why is it a better measure of return than the current yield?
+<variant> YTM shows the total interest paid over time, which is the most important for investors.
+<variantright> YTM includes both interest payments and any gain or loss from buying the bond, making it a better measure of return.
+<variant> YTM only includes the interest, and is more accurate than the current yield.
+<variant> YTM only shows the interest rate the bond had when it was issued.
+<question>Why do first mortgage bonds generally offer lower yields compared to second or third mortgage bonds?
+<variant> First mortgage bonds are riskier, so they offer higher yields.
+<variantright> First mortgage bonds are safer because they have priority if the company defaults, so they offer lower yields.
+<variant> First mortgage bonds are shorter-term bonds and offer higher yields.
+<variant> First mortgage bonds are more flexible, so they offer higher yields.
+<question>Why might a company choose to issue unsecured debenture bonds instead of secured mortgage bonds?
+<variant> Unsecured bonds usually offer lower interest rates than secured bonds.
+<variantright> Unsecured bonds are riskier for investors but don’t require the company to pledge assets as collateral.
+<variant> Unsecured bonds are preferred by investors because they are backed by property.
+<variant> Unsecured bonds have better tax benefits than secured bonds.
+<question>How does asset securitization benefit both the bond issuer and the bond investor?
+<variant> It increases the risk for both parties by combining all types of assets.
+<variantright> It allows the issuer to raise money faster, and the investor gets more predictable returns.
+<variant> It only benefits the bond issuer by allowing them to keep debt off their balance sheet.
+<variant> It reduces investor returns by spreading risks too thin.
+<question>What are the main reasons firms and individuals prefer using the capital markets for long-term investments instead of money markets?
+<variant> Capital markets are more flexible and offer shorter-term investments compared to money markets.
+<variantright> Capital markets offer higher returns and better opportunities for long-term growth.
+<variant> Money markets provide better investment options for long-term goals.
+<variant> Money markets offer more reliable returns than capital markets.
+<question>Why is issuing long-term securities, such as bonds or stocks, less risky for firms compared to financing with short-term money market instruments?
+<variant> Long-term securities cost more for firms than short-term options.
+<variantright> Long-term securities provide more stability for firms because they lock in funds for a longer period.
+<variant> Short-term securities are less risky because they can be quickly repaid.
+<variant> Short-term financing is safer because it avoids interest rate changes.
+<question>What are the key differences in the types of capital market securities issued by governments versus corporations?
+<variant> Government bonds are riskier than corporate bonds.
+<variant> Corporate bonds are usually safer than government bonds.
+<variantright> Government bonds are backed by the government, while corporate bonds are backed by companies and can carry more risk.
+<variant> Both government and corporate bonds are equally safe.
+<question>How does the availability of well-functioning capital markets impact the economy, especially during financial crises?
+<variantright> Capital markets help stabilize the economy by allowing companies to raise money and continue operations.
+<variant> Capital markets make financial crises worse by encouraging risky investments.
+<variant> Capital markets don’t play a role in the economy during financial crises.
+<variant> Capital markets make it easier for governments to stop financial crises.
+<question>How do the primary and secondary capital markets differ in terms of purpose and participants?
+<variant> Primary markets involve buying bonds from investors, while secondary markets allow the company to issue bonds.
+<variantright> Primary markets allow the first sale of bonds, while secondary markets allow the buying and selling of bonds among investors.
+<variant> Secondary markets are only for governments, while primary markets are for corporations.
+<variant> Secondary markets are where companies raise money directly from investors.
+<question>Why are secondary markets essential for the functioning of the capital markets?
+<variantright> Secondary markets help investors quickly buy and sell bonds, keeping the market efficient.
+<variant> Secondary markets don’t really matter since bonds are only traded once in the primary market.
+<variant> Secondary markets are important because they allow companies to issue more bonds.
+<variant> Secondary markets increase risk by allowing bonds to be traded too frequently.
+<question>What is the main distinction between Treasury notes and Treasury bonds, and why does the Treasury issue securities with varying maturities?
+<variant> Treasury notes have longer maturities than Treasury bonds.
+<variantright> Treasury notes are short-term, and Treasury bonds are long-term; both are used to manage government debt.
+<variant> Treasury notes are only available to institutional investors, while Treasury bonds are available to the public.
+<variant> Treasury notes are riskier than Treasury bonds because they are issued for a shorter time
+<question>Why are fixed coupon rates a key feature of most bonds, and how does this feature impact investors and issuers during changing interest rate environments?
+<variant> Fixed coupon rates mean the issuer pays a fixed amount regardless of interest rate changes, which is riskier for investors.
+<variantright> Fixed coupon rates are preferred because they offer predictable payments and help issuers budget better.
+<variant> Fixed coupon rates are rare because they only apply to bonds that are issued with no interest.
+<variant> Fixed coupon rates make bonds riskier for the issuer but safer for investors.
+<question>What does an annual report include?
+<variant> Information about employees
+<variantright> Company’s financial statements
+<variant> Marketing strategies
+<variant> Employee bonuses
+<question>What is the purpose of cash and cash equivalents in financial statements?
+<variant> To show the company’s revenue
+<variantright> To represent short-term, liquid investments
+<variant> To list outstanding debts
+<variant> To show long-term investments
+<question>How are short-term investments classified on a financial statement?
+<variant> As cash and cash equivalents
+<variant> As assets under construction
+<variantright> As available-for-sale securities
+<variant> As liabilities
+<question>What does the allowance for doubtful accounts represent in financial statements?
+<variant> Money owed by employees
+<variantright> Money expected to be uncollected from customers
+<variant> Money set aside for investments
+<variant> Money given to suppliers
+<question>What is a typical use for inventories in a company?
+<variant> For marketing campaigns
+<variantright> To sell or use for operations
+<variant> To pay taxes
+<variant> To invest in other companies
+<question>What is capitalized when it significantly enhances an asset’s performance or extends its life?
+<variant> Advertising expenses
+<variant> Routine maintenance
+<variantright> Asset modifications
+<variant> Employee wages
+<question>What does the depreciation of property and equipment represent?
+<variant> The increase in asset value
+<variant> The reduction in the asset’s useful life
+<variantright> The decrease in asset value over time
+<variant> The annual cost of assets
+<question>How does a company recognize revenue from tickets sold for future flights?
+<variant> When the ticket is refunded
+<variantright> When the passenger travels
+<variant> When the ticket is sold
+<variant> When the flight is canceled
+<question>What is a company’s liability for frequent flyer miles?
+<variant> Money spent by passengers on flights
+<variantright> The cost of free travel rewards
+<variant> Ticket sales for future flights
+<variant> Advertising expenses
+<question>What does “share-based compensation” refer to in a company’s financial statements?
+<variant> Payments made to stockholders
+<variantright> Costs related to employee stock options
+<variant> Bonus payments to employees
+<variant> Revenue from selling company shares
+<question>What does financial literacy include?
+<variantright> Ability to plan income and expenses
+<variant> Eliminates the need to take loans
+<variant> Ability to quickly earn large sums of money
+<variant> Habit of using only cash
+<question>What problems does financial literacy solve?
+<variantright> Helps manage finances rationally
+<variant> Understanding central bank policy
+<variant> Allows avoidance of taxes
+<variant> Eliminates the need to take loans
+<question>What components are part of financial literacy?
+<variantright> Knowledge of financial instruments
+<variant> Helps manage finances rationally
+<variant> Understanding central bank policy
+<variant> Mandatory possession of foreign currency
+<question>What is a personal budget?
+<variantright> Planning income and expenses
+<variant> Eliminates the need to take loans
+<variant> Understanding international economics
+<variant> Eliminating all unnecessary purchases
+<question>What types of budgets exist?
+<variant> Entertainment
+<variantright> Balanced
+<variant> Inflationary
+<variant> Investment
+<question>What are considered mandatory expenses?
+<variant> Economical
+<variantright> Food expenses
+<variant> Gift purchases
+<variant> Entertainment
+<question>What steps are necessary to create a budget?
+<variant> Eliminates the need to take loans
+<variantright> Analyzing the gathered information
+<variant> Completely avoiding loans
+<variant> Increasing expenses
+<question>What is the main function of insurance?
+<variant> Increasing the profits of the insurance company
+<variantright> Minimizing the negative consequences of risks
+<variant> Reducing taxes
+<variant> Increasing the market value of property
+<question>Which insurance function involves redistributing reserves?
+<variant> Preventative
+<variant> Savings
+<variantright> Risk-based
+<variant> Control
+<question>What type of insurance is considered long-term?
+<variant> Medical insurance
+<variant> Property insurance
+<variantright> Life insurance
+<variant> Fire insurance
+<question>Which risk is most characteristic of life insurance?
+<variant> Rising food prices
+<variantright> Death at a young age
+<variant> Household appliance breakdown
+<variant> Decline in stock market value
+<question>What is insurance called when the insured receives a payout upon surviving a certain date?
+<variant> Insurance with a savings premium
+<variant> Annuity
+<variantright> Endowment insurance
+<variant> Rent
+<question>Which statement about insurance in Kazakhstan is true?
+<variant> All types of insurance are mandatory
+<variantright> Personal insurance in Kazakhstan is voluntary
+<variant> The government pays insurance premiums
+<variant> Property insurance is not possible
+<question>What does the term "control function of insurance" mean?
+<variantright> Checking financial reserves and compliance with insurance conditions
+<variant> Increasing the insurance premium cost
+<variant> Changing the terms of the insurance contract
+<variant> Financing insurance payouts
+<question>What factor increases risks in a market economy?
+<variant> Stable inflation
+<variantright> Political instability
+<variant> Increased social protection levels
+<variant> Reduced taxes
+<question>Which type of insurance allows for payments in the form of annuities?
+<variant> Medical insurance
+<variant> Auto insurance
+<variantright> Life insurance
+<variant> Accident insurance
+<question>What is true about the savings function of insurance?
+<variant> It is used only in medical insurance
+<variant> It provides financial assistance in emergencies
+<variantright> It is associated with accumulating funds
+<variant> It applies only to property insurance
+<question>Which type of insurance includes risks associated with accidents?
+<variant> Property insurance
+<variantright> Health insurance
+<variant> Life insurance
+<variant> Auto insurance
+<question>Which type of insurance is regulated as mandatory in Kazakhstan?
+<variant> Property insurance
+<variantright> Compulsory Motor Third-Party Liability Insurance (CMTPL)
+<variant> Life insurance
+<variant> Medical insurance
+<question>In what situation is the preventative function of insurance applied?
+<variant> To control insurance payouts
+<variantright> To finance activities that prevent risks
+<variant> To accumulate funds in long-term insurance
+<variant> To conclude new insurance contracts
+<question>What is an example of an insurance reserve?
+<variant> Government subsidies
+<variantright> Funds accumulated by the insurance company for future payouts
+<variant> Loan interest
+<variant> Personal property of the insured
+<question>What is the primary goal of property insurance?
+<variant> Fund accumulation
+<variantright> Protection of property from financial loss
+<variant> Increasing market value of property
+<variant> Obtaining tax benefits
+<question>Which insurance function helps prevent natural disasters?
+<variant> Risk-based
+<variantright> Preventative
+<variant> Savings
+<variant> Control
+<question>What is the object of insurance in life insurance?
+<variant> Material values
+<variantright> Life and health of a person
+<variant> Property
+<variant> Family income
+<question>Which function of insurance ensures compliance with contract terms?
+<variantright> Control
+<variant> Risk-based
+<variant> Savings
+<variant> Preventative
+<question>What does not fall under personal insurance types?
+<variant> Medical insurance
+<variantright> Auto insurance
+<variant> Life insurance
+<variant> Accident insurance
+<question>Which form of life insurance includes payouts after the policy term ends?
+<variant> Insurance in case of death
+<variantright> Endowment insurance
+<variant> Medical insurance
+<variant> Annuity
+<question>Which type of insurance protects against inflation?
+<variant> Property insurance
+<variantright> Financial insurance
+<variant> Health insurance
+<variant> Risk-based insurance
+<question>Which category of insurance falls under mandatory insurance?
+<variant> Life insurance
+<variant> Property insurance
+<variantright> Compulsory Motor Third-Party Liability Insurance (CMTPL)
+<variant> Medical insurance
+<question>What relates to the accumulation function of insurance?
+<variant> Loss accounting
+<variant> Premium reduction
+<variantright> Accumulation of financial reserves
+<variant> Loss recovery
+<question>What factor increases risks in the modern insurance industry?
+<variant> Improvements in healthcare
+<variantright> Economic instability
+<variant> Increased protection levels
+<variant> Reduction in the number of accidents
+<question>What is the process of determining insurance risk called?
+<variant> Premium assessment
+<variant> Damage estimation
+<variantright> Underwriting
+<variant> Reserve calculation
+<question>What is the basis for paying the insured amount in life insurance?
+<variant> Company reserves
+<variantright> Occurrence of the insured event
+<variant> Premium amount
+<variant> Agreement between parties
+<question>What risks are covered under accident insurance?
+<variant> Equipment failure
+<variantright> Injuries and health damage
+<variant> Loss of property
+<variant> Income reduction
+<question>Which type of insurance is designed to protect citizens' health?
+<variant> Property insurance
+<variantright> Medical insurance
+<variant> Financial insurance
+<variant> Annuity
+<question>What factor determines the cost of an insurance premium?
+<variant> Inflation rate
+<variantright> Scope of insurance coverage
+<variant> Company expenses
+<variant> Policy term
+<question>What is the primary definition of financial literacy?
+<variant> The ability to memorize financial terms
+<variantright> The understanding and application of financial knowledge to make informed decisions
+<variant> The capability to borrow unlimited money from banks
+<variant> Knowing how to predict stock market changes accurately
+<variant> The ability to calculate interest rates only
+<question>Which of the following is NOT a goal of financial literacy?
+<variant> Managing personal finances effectively
+<variant> Making informed financial decisions
+<variantright> Investing without understanding risks
+<variant> Planning for future financial security
+<variant> Understanding financial products and services
+<question>Financial literacy primarily helps individuals achieve which objective?
+<variant> Maximizing debt to increase lifestyle
+<variantright> Managing risks, savings, and investments
+<variant> Ignoring credit scores and loan terms
+<variant> Spending all income without savings
+<variant> Avoiding financial planning altogether
+<question>Why is financial literacy important for individuals?
+<variant> It guarantees wealth
+<variantright> It helps individuals avoid poor financial decisions
+<variant> It eliminates the need for budgeting
+<variant> It ensures automatic debt forgiveness
+<variant> It promotes overspending
+<question>One of the key objectives of financial literacy is to:
+<variant> Understand the tax system in detail
+<variant> Borrow as much as possible
+<variantright> Plan for retirement and other long-term goals
+<variant> Avoid learning about inflation
+<variant> Depend solely on financial advisors
+<question>Which concept is closely related to financial literacy?
+<variantright> Time value of money
+<variant> Ignoring bank statements
+<variant> Unlimited credit card usage
+<variant> Buying stocks without research
+<variant> Blindly investing in real estate
+<question>A financially literate person is more likely to:
+<variantright> Save for emergencies
+<variant> Spend all income on luxury goods
+<variant> Ignore loan agreements
+<variant> Avoid learning about interest rates
+<variant> Invest without any knowledge
+<question>What is the first step in improving financial literacy?
+<variant> Setting up multiple bank accounts
+<variantright> Understanding personal financial goals and budgeting
+<variant> Investing in the stock market immediately
+<variant> Ignoring financial education resources
+<variant> Borrowing as much as possible
+<question>Financial literacy involves understanding which of the following?
+<variantright> How to balance a budget
+<variant> How to avoid taxes
+<variant> How to spend beyond one’s income
+<variant> How to ignore interest rates
+<variant> How to delay financial planning
+<question>Which is a major benefit of being financially literate?
+<variantright> Better financial decision-making
+<variant> Inability to save for the future
+<variant> Increased dependence on loans
+<variant> Higher spending without planning
+<variant> Ignoring financial risks
+<question>How does financial literacy impact long-term financial planning?
+<variantright> It promotes saving and investments for future needs
+<variant> It encourages excessive borrowing
+<variant> It focuses only on short-term expenses
+<variant> It avoids planning for retirement
+<variant> It discourages learning about financial products
+<question>Financial literacy helps individuals to:
+<variantright> Make informed decisions about insurance, loans, and investments
+<variant> Avoid learning about financial markets
+<variant> Ignore budgeting
+<variant> Spend all income without saving
+<variant> Only focus on luxury expenses
+<question>Why is financial literacy important for individuals?
+<variantright> It allows individuals to make informed decisions about spending, saving, and investing
+<variant> It helps individuals avoid paying taxes
+<variant> It guarantees that an individual will become wealthy
+<variant> It eliminates the need for budgeting
+<variant> It ensures that individuals will never face financial difficulties
+<question>What is one of the key objectives of financial literacy?
+<variant> To develop strategies for avoiding investment risks at all costs
+<variant> To understand how to maximize consumer debt
+<variantright> To enable individuals to plan for long-term financial goals and emergencies
+<variant> To encourage unnecessary spending and high-interest borrowing
+<variant> To focus solely on short-term financial gains
+<question>What does financial literacy help individuals understand about financial decisions?
+<variant> The best methods for gambling and speculation
+<variant> The importance of ignoring inflation
+<variantright> How financial decisions impact personal financial well-being and goals
+<variant> The legal implications of bankruptcy
+<variant> The complexity of tax evasion strategies
+<question>What is the primary function of money in an economy?
+<variant> To regulate inflation
+<variantright> To serve as a medium of exchange
+<variant> To increase taxes
+<variant> To replace credit systems
+<variant> To determine national debt
+<question>Which of the following is NOT included in the M1 definition of the money supply?
+<variant> Currency
+<variant> Traveler’s checks
+<variant> Demand deposits
+<variantright> Savings accounts
+<variant> Other checkable deposits
+<question>The velocity of money is defined as:
+<variantright> The average number of times each dollar is spent on goods and services
+<variant> The speed at which banks transfer funds
+<variant> The interest rate charged on loans
+<variant> The frequency of currency exchange
+<variant> The turnover of government bonds
+<question>Which of the following best describes a negotiable certificate of deposit (CD)?
+<variant> A long-term government bond
+<variantright> A short-term debt instrument issued by depository institutions
+<variant> A currency exchange mechanism
+<variant> A promissory note for international trade
+<variant> An unsecured loan
+<question>What is the difference between M1 and M2 in the U.S. money supply?
+<variant> M1 includes all forms of credit, while M2 excludes them
+<variant> M1 is a broader measure than M2
+<variantright> M2 includes M1 plus savings deposits and money market mutual funds
+<variant> M2 consists only of physical currency
+<variant> M1 excludes all digital transactions
+<question>What is the main characteristic of commercial paper?
+<variant> It is issued by governments for long-term financing
+<variantright> It is a short-term unsecured promissory note issued by corporations
+<variant> It is backed by gold reserves
+<variant> It is exclusively used in foreign currency exchange
+<variant> It has no secondary market
+<question>The primary purpose of a repurchase agreement (repo) is:
+<variant> To issue long-term loans to individuals
+<variantright> To sell short-term securities with an agreement to repurchase them
+<variant> To issue government bonds for international trade
+<variant> To regulate inflation rates directly
+<variant> To manage foreign exchange reserves
+<question>Which of the following components represents the largest portion of the M1 money supply?
+<variant> Traveler’s checks
+<variant> Demand deposits
+<variant> Other checkable deposits
+<variantright> Currency in circulation
+<variant> Savings bonds
+<question>What happens to the GDP if the money supply and the velocity of money both increase?
+<variant> GDP remains constant
+<variant> GDP decreases
+<variantright> Nominal GDP increases
+<variant> Real GDP decreases
+<variant> Price levels decrease
+<question>What is the primary risk associated with holding large amounts of cash as a store of value?
+<variant> High transaction fees
+<variant> Liquidity risk
+<variantright> Inflation eroding purchasing power
+<variant> Inability to make payments
+<variant> Increased tax liability
+<question>Debit cards provide for:
+<variant> Delayed transfer of funds
+<variantright> Immediate direct transfer of deposit amounts
+<variant> Issuance of promissory notes
+<variant> Conversion of funds into foreign currencies
+<variant> Writing of checks for international trade
+<question>Money market securities typically have which characteristic?
+<variant> Long-term maturities
+<variant> High default risk
+<variantright> High liquidity
+<variant> No secondary market
+<variant> Issuance by individuals
+<question>What is the primary advantage of using electronic payments over paper checks?
+<variant> They increase the risk of fraud
+<variantright> They reduce the delivery and processing delays, enhancing efficiency
+<variant> They require more paperwork
+<variant> They are more expensive for businesses
+<variant> They are only used for international transactions
+<question>What is the term "float" in the context of banking and payment systems?
+<variantright> The amount of time a check takes to clear between the payer and payee
+<variant> The total balance in a checking account
+<variant> The rate of interest on loans
+<variant> The amount of debt a person can incur without penalty
+<variant> The fluctuation in the stock market
+<question>How does the "remote capture" process benefit the payment system?
+<variant> It allows checks to be paid instantly without any delays
+<variant> It eliminates the need for paper checks entirely
+<variantright> It scans checks and electronically transmits payment details, reducing errors and float
+<variant> It increases the number of paper checks processed
+<variant> It is only available for international payments
+<question>What is the primary goal of personal financial planning?
+<variant> To increase debt as much as possible
+<variantright> To manage financial resources to achieve life goals
+<variant> To avoid financial investments
+<variant> To eliminate all discretionary spending
+<variant> To avoid creating a budget
+<question>Which of the following is considered an essential expense in a personal budget?
+<variant> Entertainment subscriptions
+<variantright> Mortgage or rent payments
+<variant> Luxury vacations
+<variant> Investing in high-risk stocks
+<variant> Dining out expenses
+<question>Personal income primarily includes which of the following?
+<variant> Loans and borrowed funds
+<variantright> Salary, wages, and investment returns
+<variant> Gifts from friends and family
+<variant> Credit card cash advances
+<variant> Tax refunds only
+<question>Which of the following best describes a discretionary expense?
+<variant> Mortgage payment
+<variant> Monthly utility bill
+<variant> Groceries
+<variant> Savings for retirement
+<variantright> Vacation travel
+<question>Why is it important to track both income and expenses in personal finance?
+<variant> To avoid paying taxes
+<variant> To ensure that spending exceeds income
+<variantright> To monitor cash flow and make adjustments
+<variant> To prevent budgeting for essential expenses
+<variant> To eliminate all investments
+<question>A personal budget typically includes which of the following categories?
+<variantright> Income, expenses, savings, and debt repayment
+<variant> Only income and discretionary expenses
+<variant> Investments and government loans
+<variant> Credit card limits and stock market trends
+<variant> Gifts and donations only
+<question>What is a common financial strategy to increase personal savings?
+<variant> Spend all remaining income on luxury items
+<variantright> Reduce discretionary expenses
+<variant> Ignore financial planning
+<variant> Increase short-term debt
+<variant> Avoid tracking expenses
+<question>Which financial document helps individuals understand their net worth?
+<variant> Income statement
+<variantright> Balance sheet
+<variant> Loan application
+<variant> Tax refund form
+<variant> Employment contract
+<question>What is the primary benefit of maintaining an emergency fund?
+<variant> Increased investment opportunities
+<variantright> Protection against unexpected financial emergencies
+<variant> Higher monthly income
+<variant> Avoidance of budgeting
+<variant> Ability to increase discretionary expenses
+<question>In personal finance, what does “cash flow” refer to?
+<variant> The total debt owed by an individual
+<variantright> The difference between total income and total expenses
+<variant> The amount of taxes paid annually
+<variant> The interest earned on savings accounts
+<variant> The total value of investments
+<question>Which of the following is considered a long-term financial goal?
+<variant> Saving for a vacation next month
+<variant> Buying groceries for the week
+<variantright> Purchasing a new home in five years
+<variant> Paying off a monthly utility bill
+<variant> Increasing daily discretionary expenses
+<question>What is the first step in creating a personal budget?
+<variant> Estimate future investment returns
+<variant> Calculate total monthly expenses
+<variantright> Determine net monthly income
+<variant> Apply for new credit cards
+<variant> Plan for luxury spending
+<question>What is the primary advantage of creating a detailed monthly budget for personal finances?
+<variant> It helps individuals avoid paying taxes
+<variantright> It allows for tracking and controlling income and expenses to ensure financial stability
+<variant> It encourages individuals to spend more on discretionary items
+<variant> It guarantees a higher income
+<variant> It eliminates the need for saving
+<question>What is the role of a financial planner in managing personal income and expenses?
+<variant> To provide loans to clients
+<variant> To track government spending and taxation
+<variantright> To help individuals set and achieve financial goals, including income allocation and expense management
+<variant> To create personal budgets without considering future financial goals
+<variant> To manage tax rates for individuals
+<question>How can personal finance and budgeting practices affect an individual’s long-term wealth accumulation?
+<variant> By increasing monthly expenditure
+<variant> By ensuring that income is spent impulsively
+<variantright> By focusing on savings, reducing unnecessary expenses, and investing over time
+<variant> By ignoring investment opportunities
+<variant> By using all income for daily consumption without savings
+<question>What is the primary purpose of taxation for individuals?
+<variant> To increase national debt
+<variantright> To fund government operations and public services
+<variant> To eliminate inflation
+<variant> To reduce national exports
+<variant> To create corporate profits
+<question>Which tax rate applies to the last dollar of taxable income?
+<variant> Average tax rate
+<variantright> Marginal tax rate
+<variant> Fixed tax rate
+<variant> Flat tax rate
+<variant> Standard tax rate
+<question>Personal income tax rates in the United States are considered:
+<variant> Flat tax rates
+<variantright> Progressive tax rates
+<variant> Regressive tax rates
+<variant> Indirect tax rates
+<variant> Proportional tax rates
+<question>What is the difference between average tax rate and marginal tax rate?
+<variant> Average tax rate applies only to investments, while marginal applies to loans
+<variantright> Average tax rate is based on total income, while marginal applies to the last dollar earned
+<variant> Average tax rate applies to corporate income only
+<variant> Marginal tax rate is always lower than the average tax rate
+<variant> Both rates apply equally to all income
+<question>Which income type is taxed when it is received, rather than when it is realized through sale?
+<variant> Capital gains
+<variantright> Ordinary income
+<variant> Unrealized gains
+<variant> Tax-deferred income
+<variant> Passive income
+<question>What happens if the selling price of an asset exceeds its book value for tax purposes?
+<variant> The gain is ignored for tax purposes
+<variant> The gain is taxed as ordinary income
+<variantright> The gain is taxed at a lower capital gains rate
+<variant> No tax adjustment is required
+<variant> The loss is carried forward to the next year
+<question>Which filing status typically results in the highest marginal tax rate for the same income level?
+<variantright> Single
+<variant> Married filing jointly
+<variant> Head of household
+<variant> Married filing separately
+<variant> Qualifying widow(er)
+<question>What is a key advantage of an S Corporation in terms of taxation?
+<variant> It pays corporate taxes only
+<variantright> It avoids double taxation by passing income directly to shareholders
+<variant> It receives government tax exemptions
+<variant> It only pays capital gains taxes
+<variant> It is taxed as a partnership and corporation simultaneously
+<question>What is the purpose of the depreciation tax shield for individuals or businesses?
+<variant> To increase taxable income
+<variantright> To reduce taxable income by accounting for asset depreciation
+<variant> To increase cash outflow
+<variant> To pay higher taxes on depreciated assets
+<variant> To eliminate depreciation expense from financial reports
+<question>What is the key difference between marginal and average tax rates?
+<variant> Marginal tax rate is the total percentage of income paid in taxes, while the average tax rate applies only to income over $100,000
+<variantright> Marginal tax rate applies to the last dollar of income earned, while the average tax rate is the total tax paid divided by total income.
+<variant> Marginal tax rate is fixed for all income levels, while average tax rate fluctuates with income.
+<variant> Marginal tax rate is applied only to corporate taxes, while average tax rate applies to individual taxes.
+<variant> There is no difference between the two.
+<question>What is a key advantage of using tax deductions?
+<variant> They directly reduce the amount of tax owed.
+<variant> They increase the taxable income, leading to a lower tax bill.
+<variant> They are only available for corporate income taxes.
+<variantright> They reduce the effective tax rate on income.
+<variant> They guarantee a tax refund.
+<question>What happens when a taxpayer is eligible for tax credits?
+<variant> The tax credit is deducted from the taxpayer’s income before tax is calculated.
+<variantright> The tax credit is subtracted directly from the total amount of tax owed.
+<variant> The tax credit increases the taxable income, leading to a higher tax bill.
+<variant> Tax credits apply only to capital gains.
+<variant> The tax credit is converted into a government grant.
+<question>Which of the following is the primary function of a commercial bank?
+<variant> Manufacturing goods
+<variantright> Accepting deposits and making loans
+<variant> Selling insurance policies
+<variant> Regulating financial markets
+<variant> Managing real estate investments
+<question>What type of account allows customers to write checks against their deposited funds?
+<variant> Savings account
+<variant> Certificate of deposit (CD)
+<variantright> Demand deposit account
+<variant> Money market account
+<variant> Retirement account
+<question>Which of the following is a characteristic of a credit union?
+<variant> It operates for profit
+<variantright> It serves members with a common affiliation
+<variant> It exclusively offers loans to businesses
+<variant> It is publicly traded on stock exchanges
+<variant> It does not accept deposits
+<question>What is the primary advantage of using a savings and loan association for home financing?
+<variant> High-interest rates on deposits
+<variantright> Specialized focus on mortgage loans
+<variant> Lack of regulation
+<variant> Immediate access to funds without penalties
+<variant> Exclusively international banking services
+<question>Which of the following accounts typically offers the highest interest rate?
+<variant> Checking account
+<variant> Savings account
+<variantright> Certificate of deposit (CD)
+<variant> Demand deposit account
+<variant> Basic savings account
+<question>What is the main purpose of the Federal Deposit Insurance Corporation (FDIC)?
+<variant> To regulate stock market transactions
+<variantright> To insure deposit accounts against bank failure
+<variant> To provide loans to individuals
+<variant> To manage inflation rates
+<variant> To oversee international banking
+<question>Which financial institution primarily focuses on providing small loans to individuals?
+<variant> Commercial bank
+<variant> Credit union
+<variantright> Consumer finance company
+<variant> Investment bank
+<variant> Brokerage firm
+<question>What is the term for a loan secured by real estate, where the property is used as collateral?
+<variant> Personal loan
+<variant> Car loan
+<variantright> Mortgage loan
+<variant> Unsecured loan
+<variant> Credit line
+<question>What type of banking service allows customers to earn interest on funds while maintaining check-writing privileges?
+<variant> Certificate of deposit (CD)
+<variant> Savings account
+<variantright> Money market deposit account (MMDA)
+<variant> Fixed deposit account
+<variant> Retirement account
+<question>Which of the following describes a negotiable certificate of deposit (CD)?
+<variant> A long-term loan to an individual
+<variantright> A short-term fixed-term deposit that can be traded in the secondary market
+<variant> A government-issued bond
+<variant> A non-negotiable savings instrument
+<variant> An unsecured promissory note
+<question>What type of bank loan allows borrowers to draw funds as needed up to a maximum limit?
+<variant> Fixed-rate loan
+<variantright> Line of credit
+<variant> Certificate of deposit (CD)
+<variant> Equity loan
+<variant> Demand loan
+<question>Which type of bank account typically allows an individual to earn interest while maintaining the ability to write checks?
+<variant> Certificate of Deposit (CD)
+<variantright> Money Market Deposit Account (MMDA)
+<variant> Savings Account
+<variant> Demand Deposit Account
+<variant> Retirement Account
+<question>What is a key advantage of using a credit union over a commercial bank?
+<variant> Higher fees on loans and credit cards
+<variantright> Non-profit structure often results in lower loan rates and better savings rates
+<variant> Limited options for business loans
+<variant> Higher deposit requirements for new accounts
+<variant> Focus on large corporate clients
+<question>What is the primary purpose of a commercial bank’s loan department?
+<variant> To manage government securities
+<variant> To issue savings bonds
+<variantright> To provide loans to businesses and individuals based on their creditworthiness
+<variant> To offer investment advice to clients
+<variant> To trade in foreign currencies
+<question>Which of the following services is typically offered by mortgage banking firms?
+<variant> Investment banking and stock trading
+<variantright> Helping individuals obtain mortgage loans by bringing together borrowers and investors
+<variant> Offering commercial loans to small businesses
+<variant> Providing insurance services
+<variant> Assisting with mutual fund investments
+<question>Which financial institution focuses primarily on providing home mortgage loans?
+<variant> Investment bank
+<variant> Commercial bank
+<variantright> Savings and loan association (S&L)
+<variant> Finance company
+<variant> Securities firm
+<question>What is the primary function of an insurance company?
+<variant> To lend money to businesses
+<variantright> To provide financial protection against life, health, property, and liability risks
+<variant> To manage retirement accounts
+<variant> To regulate financial markets
+<variant> To invest in government securities exclusively
+<question>Which type of insurance provides financial protection in the event of the policyholder's premature death?
+<variant> Health insurance
+<variant> Property insurance
+<variantright> Life insurance
+<variant> Liability insurance
+<variant> Disability insurance
+<question>What is the main purpose of health insurance?
+<variant> To provide retirement income
+<variantright> To cover catastrophic medical expenses
+<variant> To pay for funeral costs
+<variant> To protect against property damage
+<variant> To secure a loan
+<question>Which of the following is covered under property insurance?
+<variantright> Loss due to fire and theft
+<variant> Medical expenses
+<variant> Lawsuits from negligence
+<variant> Income replacement
+<variant> Life-threatening illnesses
+<question>Liability insurance provides protection against:
+<variant> Income loss due to unemployment
+<variantright> Financial losses from a negligence claim by another person
+<variant> Natural disasters
+<variant> Theft of personal property
+<variant> Rising inflation
+<question>What is the role of a premium in an insurance contract?
+<variant> It is a refund given to policyholders
+<variantright> It is the amount paid by policyholders to maintain the insurance coverage
+<variant> It is the deductible paid after a claim
+<variant> It is a government tax on insurance policies
+<variant> It is a loan given by the insurance company
+<question>What is the function of a pension fund in relation to insurance?
+<variant> To insure against property damage
+<variantright> To invest employee and employer contributions for retirement income
+<variant> To provide coverage for medical emergencies
+<variant> To insure businesses against market risks
+<variant> To offer life insurance policies
+<question>What type of insurance would most likely cover damages caused by a flood?
+<variant> General liability insurance
+<variantright> Property insurance with flood coverage
+<variant> Life insurance
+<variant> Health insurance
+<variant> Automobile insurance
+<question>Which insurance product is primarily designed to protect an individual's earning potential in case of a disability?
+<variant> Life insurance
+<variant> Health insurance
+<variantright> Disability insurance
+<variant> Property insurance
+<variant> Retirement insurance
+<question>What is a deductible in an insurance policy?
+<variant> The amount paid by the insurer to settle a claim
+<variant> The maximum amount the insurance company will pay
+<variantright> The amount the policyholder must pay out-of-pocket before insurance coverage applies
+<variant> The annual premium for the insurance policy
+<variant> The interest rate charged on an insurance loan
+<question>What is the primary goal of a startup's strategic business plan?
+<variant> To outline the steps for bankruptcy
+<variantright> To define the business's long-term financial and operational goals
+<variant> To secure government funding
+<variant> To list all competitors in the market
+<variant> To plan for employee salaries only
+<question>At what stage of the business life cycle does a startup typically need the most capital for growth?
+<variant> Development stage
+<variant> Start-up stage
+<variantright> Rapid growth stage
+<variant> Maturity stage
+<variant> Survival stage
+<question>Which of the following is a common reason many small businesses fail during the start-up phase?
+<variant> Excessive profits early on
+<variant> Lack of market competition
+<variantright> Insufficient capital and cash flow management
+<variant> High demand for their product or service
+<variant> Strong business partnerships
+<question>Which type of financing is often used by startups that need significant capital but have not yet reached profitability?
+<variant> Crowdfunding
+<variant> Debt financing
+<variantright> Venture capital
+<variant> Bank loans
+<variant> Personal savings
+<question>What is the typical characteristic of the “seed” stage of a business?
+<variant> The business is already profitable and generating significant revenue
+<variantright> The business is in its early conceptual phase, requiring funding for development
+<variant> The business focuses on expanding globally
+<variant> The business is being sold to larger companies
+<variant> The business has established a strong customer base
+<question>What is the primary function of financial markets?
+<variant> To manufacture goods
+<variantright> To provide a platform for the buying and selling of financial securities
+<variant> To regulate tax policies
+<variant> To manage government budgets
+<variant> To distribute consumer goods
+<question>Which market is responsible for the initial sale of new securities to investors?
+<variant> Secondary market
+<variant> Money market
+<variantright> Primary market
+<variant> Derivative market
+<variant> Foreign exchange market
+<question>What distinguishes capital markets from money markets?
+<variant> Capital markets trade securities with maturities of one year or less
+<variant> Money markets trade long-term debt and equity securities
+<variantright> Capital markets trade long-term debt and equity securities
+<variant> Money markets involve real estate transactions
+<variant> Capital markets are not regulated
+<question>In which market are previously issued securities bought and sold among investors?
+<variant> Primary market
+<variantright> Secondary market
+<variant> Money market
+<variant> Derivative market
+<variant> Initial public offering market
+<question>What is a common example of an equity security?
+<variant> Government bond
+<variant> Corporate bond
+<variantright> Common stock
+<variant> Treasury bill
+<variant> Real estate
+<question>What is the primary objective of diversification in investment?
+<variant> To increase investment fees
+<variant> To concentrate risk in one asset
+<variantright> To spread risk across multiple assets
+<variant> To minimize the number of assets held
+<variant> To avoid all financial markets
+<question>Which of the following instruments is typically traded in money markets?
+<variant> Corporate bonds
+<variant> Common stocks
+<variantright> Treasury bills
+<variant> Mortgage loans
+<variant> Derivative securities
+<question>What is the term used for the initial sale of equity securities to the public?
+<variant> Secondary offering
+<variant> Derivative issuance
+<variant> Private placement
+<variantright> Initial public offering (IPO)
+<variant> Capital lease
+<question>What type of risk is reduced through diversification?
+<variant> Systematic risk
+<variant> Interest rate risk
+<variant> Market risk
+<variantright> Unsystematic risk
+<variant> Exchange rate risk
+<question>Which financial market handles securities that derive their value from other assets?
+<variant> Money market
+<variant> Primary market
+<variant> Capital market
+<variantright> Derivative market
+<variant> Equity market
+<question>What is the main purpose of the secondary market in financial markets?
+<variant> To issue new stocks to the public
+<variantright> To allow investors to buy and sell existing securities
+<variant> To guarantee a fixed return on investments
+<variant> To manage government bonds
+<variant> To evaluate the risk of stocks and bonds
+<question>Which type of investment is typically considered to be a long-term investment in the capital markets?
+<variant> Treasury bills
+<variant> Savings accounts
+<variantright> Corporate bonds with a maturity of 10 years or more
+<variant> Certificates of deposit
+<variant> Commercial paper
+<question>What is the primary role of a broker in the secondary market?
+<variant> To issue new securities for corporations
+<variant> To provide loans to investors for margin trading
+<variantright> To act as an intermediary between buyers and sellers of securities
+<variant> To determine the interest rates of corporate bonds
+<variant> To create investment products for clients
+<question>What is meant by the term "market liquidity"?
+<variant> The risk of market fluctuations
+<variantright> The speed at which an asset can be sold for cash without affecting its price
+<variant> The amount of taxes on investments
+<variant> The potential return on an investment
+<variant> The legal restrictions on trading securities
+<question>Which of the following is an example of a debt security traded in the capital markets?
+<variant> Common stock
+<variant> Mutual funds
+<variantright> Corporate bonds
+<variant> Treasury bills
+<variant> Derivatives
+<question>What is the primary reason individuals choose to become small business owners?
+<variant> To invest in government bonds
+<variantright> To seek salary-replacement opportunities or pursue lifestyle interests
+<variant> To manage large corporations
+<variant> To avoid financial management
+<variant> To work in non-profit organizations
+<question>Which of the following describes the typical stages of a business lifecycle?
+<variantright> Development, start-up, survival, rapid growth, and maturity
+<variant> Planning, failure, restart, expansion, and liquidation
+<variant> Idea generation, product launch, bankruptcy, and exit
+<variant> Funding, scaling, downsizing, and closure
+<variant> Market analysis, project execution, and final closure
+<question>What is the primary focus of entrepreneurial finance?
+<variant> Managing the personal finances of investors
+<variantright> Raising financial capital and managing assets for early-stage firms
+<variant> Investing in mutual funds and government bonds
+<variant> Establishing accounting procedures for corporations
+<variant> Providing loans to large institutions
+<question>Which financing source is commonly used during the start-up stage of a business?
+<variant> Government grants
+<variantright> Personal savings and angel investors
+<variant> Public offerings in the stock market
+<variant> Corporate bonds
+<variant> Long-term bank loans
+<question>What role do business angels typically play in small business development?
+<variant> They provide venture capital for large corporations
+<variantright> They offer small amounts of capital and strategic advice to start-ups
+<variant> They focus exclusively on buying public stocks
+<variant> They lend money with high interest rates
+<variant> They are government representatives for small firms
+<question>What is the purpose of a business plan in the context of a startup?
+<variant> To acquire legal documentation for incorporation
+<variantright> To outline financial, operational, and marketing strategies for growth
+<variant> To calculate federal tax liabilities
+<variant> To request loans from consumers
+<variant> To list the names of potential investors
+<question>Which act made it easier for startups to raise equity through crowdfunding?
+<variant> Dodd-Frank Act
+<variantright> Jumpstart Our Business Startups (JOBS) Act
+<variant> Gramm-Leach-Bliley Act
+<variant> Securities Exchange Act
+<variant> Small Business Relief Act
+<question>At what stage does a firm typically start generating enough revenues to cover its operating costs?
+<variant> Development stage
+<variant> Start-up stage
+<variantright> Break-even stage
+<variant> Rapid growth stage
+<variant> Maturity stage
+<question>Why might a small business loan application be rejected by a bank?
+<variant> The loan amount is too small
+<variantright> The owner has no collateral or insufficient equity
+<variant> The business is too profitable
+<variant> The application was submitted online
+<variant> The company is in a low-risk industry
+<question>Which of the following best defines a sole proprietorship?
+<variant> A business owned by multiple individuals with limited liability
+<variantright> A business venture owned and operated by a single individual who assumes all profits and debts
+<variant> A corporation with more than 50 shareholders
+<variant> A government-regulated entity
+<variant> A non-profit organization
+<question>What is the primary advantage of a line of credit for a small business?
+<variant> It provides equity financing
+<variant> It offers a fixed interest rate for long-term loans
+<variantright> It allows flexible borrowing up to a predefined limit
+<variant> It guarantees government subsidies
+<variant> It requires no collateral
+<question>During which stage of a business lifecycle does a firm typically experience the most rapid increase in physical assets?
+<variant> Start-up stage
+<variant> Survival stage
+<variantright> Rapid growth stage
+<variant> Maturity stage
+<variant> Exit stage
+<question>What is the primary goal of the Small Business Administration (SBA)?
+<variant> To promote mergers between large corporations
+<variantright> To provide financial assistance to small businesses unable to secure private funding
+<variant> To regulate international trade
+<variant> To manage personal investments of small business owners
+<variant> To offer tax exemptions
+<question>Which characteristic is common among successful small businesses?
+<variant> Reluctance to hire experienced managers
+<variantright> Strong focus on team efforts and past industry experience
+<variant> Exclusive reliance on personal funds
+<variant> Avoiding any partnerships or collaborations
+<variant> Rapid exit strategies
+<question>What is the primary purpose of personal bankruptcy?
+<variant> To avoid paying taxes
+<variantright> To provide legal relief from debt for individuals who cannot repay their obligations
+<variant> To eliminate all personal assets
+<variant> To increase access to loans
+<variant> To allow unlimited borrowing
+<question>What type of debts are typically non-dischargeable in bankruptcy?
+<variant> Credit card debt
+<variant> Medical bills
+<variantright> Student loans and child support payments
+<variant> Auto loans
+<variant> Utility bills
+<question>Which of the following is a common cause of personal bankruptcy?
+<variant> Excessive gambling
+<variantright> High medical expenses and job loss
+<variant> Winning the lottery
+<variant> Receiving a large inheritance
+<variant> Low interest rates
+<question>What is the primary goal of personal financial planning?
+<variant> To reduce taxes to zero
+<variantright> To achieve financial security and accumulate wealth over a lifetime
+<variant> To avoid any form of financial investment
+<variant> To increase the use of credit cards
+<variant> To eliminate the need for a budget
+<question>Which financial instrument is commonly used to provide a safety net for financial emergencies?
+<variant> Mutual funds
+<variantright> Emergency fund
+<variant> Corporate bonds
+<variant> Real estate investments
+<variant> Foreign exchange reserves
+<question>What is the primary purpose of life insurance in financial security planning?
+<variant> To maximize tax savings
+<variantright> To provide economic protection for dependents in the event of the policyholder’s death
+<variant> To increase investment returns
+<variant> To insure against stock market losses
+<variant> To guarantee retirement income
+<question>Which of the following is a major consideration when planning for retirement?
+<variant> Current credit card balance
+<variantright> Projected living expenses and savings accumulation
+<variant> Daily stock market fluctuations
+<variant> Short-term loan options
+<variant> Luxury car purchases
+<question>How do pension funds contribute to personal financial security?
+<variant> By providing immediate access to cash
+<variantright> By managing and investing funds for income during retirement
+<variant> By offering high-interest credit
+<variant> By guaranteeing fixed returns on investments
+<variant> By serving as a substitute for life insurance
+<question>Which of the following factors is most important when determining an individual’s investment strategy for financial security?
+<variant> Current job position
+<variantright> Risk tolerance and time horizon
+<variant> Daily grocery expenses
+<variant> Number of credit cards
+<variant> Preferred travel destinations
+<question>What is the function of a financial advisor in personal financial security?
+<variant> To provide personal loans
+<variantright> To offer investment advice based on an individual’s life stage and financial goals
+<variant> To replace insurance coverage
+<variant> To manage credit card debt
+<variant> To sell real estate properties
+<question>What type of insurance protects against catastrophic medical expenses?
+<variant> Liability insurance
+<variantright> Health insurance
+<variant> Property insurance
+<variant> Life insurance
+<variant> Investment insurance
+<question>How do capital market securities contribute to personal financial security?
+<variant> By providing low-risk investment options for short-term gains
+<variantright> By offering opportunities for long-term investment and growth
+<variant> By ensuring fixed returns regardless of market conditions
+<variant> By limiting access to funds for emergencies
+<variant> By increasing daily liquidity
+<question>Which financial document outlines an individual’s long-term financial objectives and strategies?
+<variant> Balance sheet
+<variantright> Policy statement
+<variant> Loan agreement
+<variant> Mortgage contract
+<variant> Credit report
+<question>Why is diversification important in personal financial security?
+<variant> To eliminate all forms of risk
+<variantright> To spread risk across various asset classes and reduce potential losses
+<variant> To increase the risk exposure of an investment portfolio
+<variant> To focus investments on a single asset type
+<variant> To avoid legal and regulatory constraints
+<question>What role does Social Security play in personal financial security?
+<variant> It provides comprehensive financial coverage for all life events
+<variantright> It offers a basic level of income during retirement
+<variant> It replaces the need for private savings
+<variant> It guarantees unlimited healthcare coverage
+<variant> It manages individual investment portfolios
+<question>What is the primary purpose of risk management in personal financial security?
+<variant> To increase the amount of debt
+<variantright> To minimize potential financial losses through strategic planning
+<variant> To maximize investment returns in the short term
+<variant> To avoid all forms of investment
+<variant> To ensure tax-free income
+<question>How does an individual’s credit score impact their financial security?
+<variant> It determines the amount of retirement savings an individual will receive
+<variantright> It affects the individual’s ability to borrow at favorable interest rates
+<variant> It dictates the amount of social security benefits they receive
+<variant> It eliminates the need for insurance coverage
+<variant> It determines the value of their real estate holdings
+<question>Why is it important to create a personal financial plan for long-term security?
+<variant> To spend as much as possible without worrying about debt
+<variant> To track income and avoid emergency savings
+<variantright> To organize financial goals and prepare for future expenses like retirement
+<variant> To increase taxes on investments
+<variant> To eliminate the need for insurance
