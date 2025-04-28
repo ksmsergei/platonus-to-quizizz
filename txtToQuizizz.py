@@ -14,32 +14,45 @@ def process_questions(file_path):
     print("Найдено вопросов: ", len(questions))
 
     for question in questions:
-        lines = question.split('\n')
-        question_text = lines[0].strip()
-        
-        # Инициализация переменных для вариантов ответов и правильного ответа
+        lines = [line.strip() for line in question.split('\n') if line.strip()]
+
+        # Инициализация переменных
+        question_text = ''
         options = []
         correct_answer = ''
 
-        # Обработка строк для извлечения вариантов ответов
-        for i, line in enumerate(lines[1:]):
-            line = line.strip()
+        # Определяем, является ли первая строка вопросом или сразу идет вариант ответа
+        if lines and not (lines[0].startswith('<variant>') or lines[0].startswith('<variantright>')):
+            question_text = lines[0]
+            option_lines = lines[1:]
+        else:
+            question_text = '<EMPTY>'  # Нет явного текста вопроса
+            option_lines = lines
+
+        # Обработка вариантов ответов
+        for line in option_lines:
             if line.startswith('<variant>'):
-                options.append(line.replace('<variant>', '').strip())
+                variant_text = line.replace('<variant>', '').strip() or '<EMPTY>'
+                options.append(variant_text)
             elif line.startswith('<variantright>'):
-                options.append(line.replace('<variantright>', '').strip())
+                variant_text = line.replace('<variantright>', '').strip() or '<EMPTY>'
+                options.append(variant_text)
                 correct_answer = str(len(options))  # Номер правильного ответа
 
-        # Заполнение данных
+        # Заполнение пропущенных вариантов до 5 штук
+        while len(options) < 5:
+            options.append('<EMPTY>')
+
+        # Заполнение строки
         row = {
-            'Question Text': question_text,
+            'Question Text': question_text if question_text else '<EMPTY>',
             'Question Type': 'Multiple Choice',
-            'Option 1': options[0] if len(options) > 0 else '',
-            'Option 2': options[1] if len(options) > 1 else '',
-            'Option 3': options[2] if len(options) > 2 else '',
-            'Option 4': options[3] if len(options) > 3 else '',
-            'Option 5': options[4] if len(options) > 4 else '',
-            'Correct Answer': correct_answer,
+            'Option 1': options[0],
+            'Option 2': options[1],
+            'Option 3': options[2],
+            'Option 4': options[3],
+            'Option 5': options[4],
+            'Correct Answer': correct_answer if correct_answer else '1',  # Если правильный вариант не указан
             'Time in seconds': 900,
             'Image Link': '',
             'Answer explanation': ''
